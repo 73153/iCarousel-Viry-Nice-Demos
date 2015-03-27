@@ -1,0 +1,516 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC4C791317AA3A7B00DA7430 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C791217AA3A7B00DA7430 /* UIKit.framework */; };
+		EC4C791517AA3A7B00DA7430 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C791417AA3A7B00DA7430 /* Foundation.framework */; };
+		EC4C791717AA3A7B00DA7430 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C791617AA3A7B00DA7430 /* CoreGraphics.framework */; };
+		EC4C791D17AA3A7B00DA7430 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC4C791B17AA3A7B00DA7430 /* InfoPlist.strings */; };
+		EC4C791F17AA3A7B00DA7430 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C791E17AA3A7B00DA7430 /* main.m */; };
+		EC4C792317AA3A7B00DA7430 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C792217AA3A7B00DA7430 /* AppDelegate.m */; };
+		EC4C792517AA3A7B00DA7430 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4C792417AA3A7B00DA7430 /* Default.png */; };
+		EC4C792717AA3A7B00DA7430 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4C792617AA3A7B00DA7430 /* Default@2x.png */; };
+		EC4C792917AA3A7B00DA7430 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4C792817AA3A7B00DA7430 /* Default-568h@2x.png */; };
+		EC4C792C17AA3A7B00DA7430 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C792B17AA3A7B00DA7430 /* ViewController.m */; };
+		EC4C792F17AA3A7B00DA7430 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC4C792D17AA3A7B00DA7430 /* ViewController.xib */; };
+		EC4C793717AA3A7B00DA7430 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C793617AA3A7B00DA7430 /* SenTestingKit.framework */; };
+		EC4C793817AA3A7B00DA7430 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C791217AA3A7B00DA7430 /* UIKit.framework */; };
+		EC4C793917AA3A7B00DA7430 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C791417AA3A7B00DA7430 /* Foundation.framework */; };
+		EC4C794117AA3A7B00DA7430 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC4C793F17AA3A7B00DA7430 /* InfoPlist.strings */; };
+		EC4C794417AA3A7B00DA7430 /* TouchTVTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C794317AA3A7B00DA7430 /* TouchTVTests.m */; };
+		EC4C795017AA45C500DA7430 /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C794E17AA45C500DA7430 /* NextViewController.m */; };
+		EC4C795117AA45C500DA7430 /* NextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC4C794F17AA45C500DA7430 /* NextViewController.xib */; };
+		EC4C795417AA58D200DA7430 /* TabCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C795317AA58D200DA7430 /* TabCell.m */; };
+		EC4C795617AA58F000DA7430 /* TabCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC4C795517AA58F000DA7430 /* TabCell.xib */; };
+		ECC7CA4C17B4B9E900D5B39B /* TTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC7CA4B17B4B9E900D5B39B /* TTextField.m */; };
+		ECC87BB017AB3E6E0095C894 /* toolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC87BAF17AB3E6E0095C894 /* toolbar.m */; };
+		ECC87BB217AB3E8E0095C894 /* toolbar.xib in Resources */ = {isa = PBXBuildFile; fileRef = ECC87BB117AB3E8E0095C894 /* toolbar.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EC4C793A17AA3A7B00DA7430 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC4C790717AA3A7B00DA7430 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC4C790E17AA3A7B00DA7430;
+			remoteInfo = TouchTV;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EC4C790F17AA3A7B00DA7430 /* TouchTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TouchTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC4C791217AA3A7B00DA7430 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EC4C791417AA3A7B00DA7430 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EC4C791617AA3A7B00DA7430 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EC4C791A17AA3A7B00DA7430 /* TouchTV-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TouchTV-Info.plist"; sourceTree = "<group>"; };
+		EC4C791C17AA3A7B00DA7430 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC4C791E17AA3A7B00DA7430 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EC4C792017AA3A7B00DA7430 /* TouchTV-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TouchTV-Prefix.pch"; sourceTree = "<group>"; };
+		EC4C792117AA3A7B00DA7430 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EC4C792217AA3A7B00DA7430 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EC4C792417AA3A7B00DA7430 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		EC4C792617AA3A7B00DA7430 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		EC4C792817AA3A7B00DA7430 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		EC4C792A17AA3A7B00DA7430 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EC4C792B17AA3A7B00DA7430 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EC4C792E17AA3A7B00DA7430 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		EC4C793517AA3A7B00DA7430 /* TouchTVTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchTVTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC4C793617AA3A7B00DA7430 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		EC4C793E17AA3A7B00DA7430 /* TouchTVTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TouchTVTests-Info.plist"; sourceTree = "<group>"; };
+		EC4C794017AA3A7B00DA7430 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC4C794217AA3A7B00DA7430 /* TouchTVTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TouchTVTests.h; sourceTree = "<group>"; };
+		EC4C794317AA3A7B00DA7430 /* TouchTVTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchTVTests.m; sourceTree = "<group>"; };
+		EC4C794D17AA45C500DA7430 /* NextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
+		EC4C794E17AA45C500DA7430 /* NextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
+		EC4C794F17AA45C500DA7430 /* NextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NextViewController.xib; sourceTree = "<group>"; };
+		EC4C795217AA58D200DA7430 /* TabCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabCell.h; sourceTree = "<group>"; };
+		EC4C795317AA58D200DA7430 /* TabCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabCell.m; sourceTree = "<group>"; };
+		EC4C795517AA58F000DA7430 /* TabCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabCell.xib; sourceTree = "<group>"; };
+		ECC7CA4A17B4B9E900D5B39B /* TTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTextField.h; sourceTree = "<group>"; };
+		ECC7CA4B17B4B9E900D5B39B /* TTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTextField.m; sourceTree = "<group>"; };
+		ECC87BAE17AB3E6E0095C894 /* toolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = toolbar.h; sourceTree = "<group>"; };
+		ECC87BAF17AB3E6E0095C894 /* toolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = toolbar.m; sourceTree = "<group>"; };
+		ECC87BB117AB3E8E0095C894 /* toolbar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = toolbar.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC4C790C17AA3A7B00DA7430 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C791317AA3A7B00DA7430 /* UIKit.framework in Frameworks */,
+				EC4C791517AA3A7B00DA7430 /* Foundation.framework in Frameworks */,
+				EC4C791717AA3A7B00DA7430 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC4C793117AA3A7B00DA7430 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C793717AA3A7B00DA7430 /* SenTestingKit.framework in Frameworks */,
+				EC4C793817AA3A7B00DA7430 /* UIKit.framework in Frameworks */,
+				EC4C793917AA3A7B00DA7430 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC4C790617AA3A7B00DA7430 = {
+			isa = PBXGroup;
+			children = (
+				EC4C791817AA3A7B00DA7430 /* TouchTV */,
+				EC4C793C17AA3A7B00DA7430 /* TouchTVTests */,
+				EC4C791117AA3A7B00DA7430 /* Frameworks */,
+				EC4C791017AA3A7B00DA7430 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC4C791017AA3A7B00DA7430 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C790F17AA3A7B00DA7430 /* TouchTV.app */,
+				EC4C793517AA3A7B00DA7430 /* TouchTVTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC4C791117AA3A7B00DA7430 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C791217AA3A7B00DA7430 /* UIKit.framework */,
+				EC4C791417AA3A7B00DA7430 /* Foundation.framework */,
+				EC4C791617AA3A7B00DA7430 /* CoreGraphics.framework */,
+				EC4C793617AA3A7B00DA7430 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EC4C791817AA3A7B00DA7430 /* TouchTV */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C792117AA3A7B00DA7430 /* AppDelegate.h */,
+				EC4C792217AA3A7B00DA7430 /* AppDelegate.m */,
+				EC4C792A17AA3A7B00DA7430 /* ViewController.h */,
+				EC4C792B17AA3A7B00DA7430 /* ViewController.m */,
+				EC4C792D17AA3A7B00DA7430 /* ViewController.xib */,
+				EC4C795217AA58D200DA7430 /* TabCell.h */,
+				EC4C795317AA58D200DA7430 /* TabCell.m */,
+				EC4C795517AA58F000DA7430 /* TabCell.xib */,
+				EC4C794D17AA45C500DA7430 /* NextViewController.h */,
+				EC4C794E17AA45C500DA7430 /* NextViewController.m */,
+				EC4C794F17AA45C500DA7430 /* NextViewController.xib */,
+				EC4C791917AA3A7B00DA7430 /* Supporting Files */,
+				ECC87BAE17AB3E6E0095C894 /* toolbar.h */,
+				ECC87BB117AB3E8E0095C894 /* toolbar.xib */,
+				ECC87BAF17AB3E6E0095C894 /* toolbar.m */,
+				ECC7CA4A17B4B9E900D5B39B /* TTextField.h */,
+				ECC7CA4B17B4B9E900D5B39B /* TTextField.m */,
+			);
+			path = TouchTV;
+			sourceTree = "<group>";
+		};
+		EC4C791917AA3A7B00DA7430 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C791A17AA3A7B00DA7430 /* TouchTV-Info.plist */,
+				EC4C791B17AA3A7B00DA7430 /* InfoPlist.strings */,
+				EC4C791E17AA3A7B00DA7430 /* main.m */,
+				EC4C792017AA3A7B00DA7430 /* TouchTV-Prefix.pch */,
+				EC4C792417AA3A7B00DA7430 /* Default.png */,
+				EC4C792617AA3A7B00DA7430 /* Default@2x.png */,
+				EC4C792817AA3A7B00DA7430 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EC4C793C17AA3A7B00DA7430 /* TouchTVTests */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C794217AA3A7B00DA7430 /* TouchTVTests.h */,
+				EC4C794317AA3A7B00DA7430 /* TouchTVTests.m */,
+				EC4C793D17AA3A7B00DA7430 /* Supporting Files */,
+			);
+			path = TouchTVTests;
+			sourceTree = "<group>";
+		};
+		EC4C793D17AA3A7B00DA7430 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C793E17AA3A7B00DA7430 /* TouchTVTests-Info.plist */,
+				EC4C793F17AA3A7B00DA7430 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC4C790E17AA3A7B00DA7430 /* TouchTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC4C794717AA3A7B00DA7430 /* Build configuration list for PBXNativeTarget "TouchTV" */;
+			buildPhases = (
+				EC4C790B17AA3A7B00DA7430 /* Sources */,
+				EC4C790C17AA3A7B00DA7430 /* Frameworks */,
+				EC4C790D17AA3A7B00DA7430 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TouchTV;
+			productName = TouchTV;
+			productReference = EC4C790F17AA3A7B00DA7430 /* TouchTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EC4C793417AA3A7B00DA7430 /* TouchTVTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC4C794A17AA3A7B00DA7430 /* Build configuration list for PBXNativeTarget "TouchTVTests" */;
+			buildPhases = (
+				EC4C793017AA3A7B00DA7430 /* Sources */,
+				EC4C793117AA3A7B00DA7430 /* Frameworks */,
+				EC4C793217AA3A7B00DA7430 /* Resources */,
+				EC4C793317AA3A7B00DA7430 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC4C793B17AA3A7B00DA7430 /* PBXTargetDependency */,
+			);
+			name = TouchTVTests;
+			productName = TouchTVTests;
+			productReference = EC4C793517AA3A7B00DA7430 /* TouchTVTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC4C790717AA3A7B00DA7430 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = denty;
+			};
+			buildConfigurationList = EC4C790A17AA3A7B00DA7430 /* Build configuration list for PBXProject "TouchTV" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EC4C790617AA3A7B00DA7430;
+			productRefGroup = EC4C791017AA3A7B00DA7430 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC4C790E17AA3A7B00DA7430 /* TouchTV */,
+				EC4C793417AA3A7B00DA7430 /* TouchTVTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC4C790D17AA3A7B00DA7430 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C791D17AA3A7B00DA7430 /* InfoPlist.strings in Resources */,
+				EC4C792517AA3A7B00DA7430 /* Default.png in Resources */,
+				EC4C792717AA3A7B00DA7430 /* Default@2x.png in Resources */,
+				EC4C792917AA3A7B00DA7430 /* Default-568h@2x.png in Resources */,
+				EC4C792F17AA3A7B00DA7430 /* ViewController.xib in Resources */,
+				EC4C795117AA45C500DA7430 /* NextViewController.xib in Resources */,
+				EC4C795617AA58F000DA7430 /* TabCell.xib in Resources */,
+				ECC87BB217AB3E8E0095C894 /* toolbar.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC4C793217AA3A7B00DA7430 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C794117AA3A7B00DA7430 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		EC4C793317AA3A7B00DA7430 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC4C790B17AA3A7B00DA7430 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C791F17AA3A7B00DA7430 /* main.m in Sources */,
+				EC4C792317AA3A7B00DA7430 /* AppDelegate.m in Sources */,
+				EC4C792C17AA3A7B00DA7430 /* ViewController.m in Sources */,
+				EC4C795017AA45C500DA7430 /* NextViewController.m in Sources */,
+				EC4C795417AA58D200DA7430 /* TabCell.m in Sources */,
+				ECC87BB017AB3E6E0095C894 /* toolbar.m in Sources */,
+				ECC7CA4C17B4B9E900D5B39B /* TTextField.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC4C793017AA3A7B00DA7430 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C794417AA3A7B00DA7430 /* TouchTVTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EC4C793B17AA3A7B00DA7430 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC4C790E17AA3A7B00DA7430 /* TouchTV */;
+			targetProxy = EC4C793A17AA3A7B00DA7430 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EC4C791B17AA3A7B00DA7430 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4C791C17AA3A7B00DA7430 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EC4C792D17AA3A7B00DA7430 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4C792E17AA3A7B00DA7430 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+		EC4C793F17AA3A7B00DA7430 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4C794017AA3A7B00DA7430 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC4C794517AA3A7B00DA7430 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EC4C794617AA3A7B00DA7430 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC4C794817AA3A7B00DA7430 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/TouchTV\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TouchTV/TouchTV-Prefix.pch";
+				INFOPLIST_FILE = "TouchTV/TouchTV-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EC4C794917AA3A7B00DA7430 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/TouchTV\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TouchTV/TouchTV-Prefix.pch";
+				INFOPLIST_FILE = "TouchTV/TouchTV-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		EC4C794B17AA3A7B00DA7430 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TouchTV.app/TouchTV";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TouchTV/TouchTV-Prefix.pch";
+				INFOPLIST_FILE = "TouchTVTests/TouchTVTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		EC4C794C17AA3A7B00DA7430 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TouchTV.app/TouchTV";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TouchTV/TouchTV-Prefix.pch";
+				INFOPLIST_FILE = "TouchTVTests/TouchTVTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC4C790A17AA3A7B00DA7430 /* Build configuration list for PBXProject "TouchTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4C794517AA3A7B00DA7430 /* Debug */,
+				EC4C794617AA3A7B00DA7430 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC4C794717AA3A7B00DA7430 /* Build configuration list for PBXNativeTarget "TouchTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4C794817AA3A7B00DA7430 /* Debug */,
+				EC4C794917AA3A7B00DA7430 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC4C794A17AA3A7B00DA7430 /* Build configuration list for PBXNativeTarget "TouchTVTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4C794B17AA3A7B00DA7430 /* Debug */,
+				EC4C794C17AA3A7B00DA7430 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC4C790717AA3A7B00DA7430 /* Project object */;
+}

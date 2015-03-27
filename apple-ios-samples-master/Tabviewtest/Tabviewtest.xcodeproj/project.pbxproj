@@ -1,0 +1,468 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC2FED7317A7D19C00297E66 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC2FED7217A7D19C00297E66 /* UIKit.framework */; };
+		EC2FED7517A7D19C00297E66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC2FED7417A7D19C00297E66 /* Foundation.framework */; };
+		EC2FED7717A7D19C00297E66 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC2FED7617A7D19C00297E66 /* CoreGraphics.framework */; };
+		EC2FED7D17A7D19C00297E66 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC2FED7B17A7D19C00297E66 /* InfoPlist.strings */; };
+		EC2FED7F17A7D19C00297E66 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2FED7E17A7D19C00297E66 /* main.m */; };
+		EC2FED8317A7D19D00297E66 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2FED8217A7D19D00297E66 /* AppDelegate.m */; };
+		EC2FED8517A7D19D00297E66 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = EC2FED8417A7D19D00297E66 /* Default.png */; };
+		EC2FED8717A7D19D00297E66 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC2FED8617A7D19D00297E66 /* Default@2x.png */; };
+		EC2FED8917A7D19D00297E66 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC2FED8817A7D19D00297E66 /* Default-568h@2x.png */; };
+		EC2FED8C17A7D19D00297E66 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2FED8B17A7D19D00297E66 /* ViewController.m */; };
+		EC2FED8F17A7D19D00297E66 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC2FED8D17A7D19D00297E66 /* ViewController.xib */; };
+		EC2FED9717A7D19D00297E66 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC2FED9617A7D19D00297E66 /* SenTestingKit.framework */; };
+		EC2FED9817A7D19D00297E66 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC2FED7217A7D19C00297E66 /* UIKit.framework */; };
+		EC2FED9917A7D19D00297E66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC2FED7417A7D19C00297E66 /* Foundation.framework */; };
+		EC2FEDA117A7D19D00297E66 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC2FED9F17A7D19D00297E66 /* InfoPlist.strings */; };
+		EC2FEDA417A7D19D00297E66 /* TabviewtestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2FEDA317A7D19D00297E66 /* TabviewtestTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EC2FED9A17A7D19D00297E66 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC2FED6717A7D19C00297E66 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC2FED6E17A7D19C00297E66;
+			remoteInfo = Tabviewtest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EC2FED6F17A7D19C00297E66 /* Tabviewtest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tabviewtest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC2FED7217A7D19C00297E66 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EC2FED7417A7D19C00297E66 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EC2FED7617A7D19C00297E66 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EC2FED7A17A7D19C00297E66 /* Tabviewtest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tabviewtest-Info.plist"; sourceTree = "<group>"; };
+		EC2FED7C17A7D19C00297E66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC2FED7E17A7D19C00297E66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EC2FED8017A7D19D00297E66 /* Tabviewtest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tabviewtest-Prefix.pch"; sourceTree = "<group>"; };
+		EC2FED8117A7D19D00297E66 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EC2FED8217A7D19D00297E66 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EC2FED8417A7D19D00297E66 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		EC2FED8617A7D19D00297E66 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		EC2FED8817A7D19D00297E66 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		EC2FED8A17A7D19D00297E66 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EC2FED8B17A7D19D00297E66 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EC2FED8E17A7D19D00297E66 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		EC2FED9517A7D19D00297E66 /* TabviewtestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TabviewtestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC2FED9617A7D19D00297E66 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		EC2FED9E17A7D19D00297E66 /* TabviewtestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TabviewtestTests-Info.plist"; sourceTree = "<group>"; };
+		EC2FEDA017A7D19D00297E66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC2FEDA217A7D19D00297E66 /* TabviewtestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabviewtestTests.h; sourceTree = "<group>"; };
+		EC2FEDA317A7D19D00297E66 /* TabviewtestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabviewtestTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC2FED6C17A7D19C00297E66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC2FED7317A7D19C00297E66 /* UIKit.framework in Frameworks */,
+				EC2FED7517A7D19C00297E66 /* Foundation.framework in Frameworks */,
+				EC2FED7717A7D19C00297E66 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC2FED9117A7D19D00297E66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC2FED9717A7D19D00297E66 /* SenTestingKit.framework in Frameworks */,
+				EC2FED9817A7D19D00297E66 /* UIKit.framework in Frameworks */,
+				EC2FED9917A7D19D00297E66 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC2FED6617A7D19C00297E66 = {
+			isa = PBXGroup;
+			children = (
+				EC2FED7817A7D19C00297E66 /* Tabviewtest */,
+				EC2FED9C17A7D19D00297E66 /* TabviewtestTests */,
+				EC2FED7117A7D19C00297E66 /* Frameworks */,
+				EC2FED7017A7D19C00297E66 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC2FED7017A7D19C00297E66 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC2FED6F17A7D19C00297E66 /* Tabviewtest.app */,
+				EC2FED9517A7D19D00297E66 /* TabviewtestTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC2FED7117A7D19C00297E66 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EC2FED7217A7D19C00297E66 /* UIKit.framework */,
+				EC2FED7417A7D19C00297E66 /* Foundation.framework */,
+				EC2FED7617A7D19C00297E66 /* CoreGraphics.framework */,
+				EC2FED9617A7D19D00297E66 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EC2FED7817A7D19C00297E66 /* Tabviewtest */ = {
+			isa = PBXGroup;
+			children = (
+				EC2FED8117A7D19D00297E66 /* AppDelegate.h */,
+				EC2FED8217A7D19D00297E66 /* AppDelegate.m */,
+				EC2FED8A17A7D19D00297E66 /* ViewController.h */,
+				EC2FED8B17A7D19D00297E66 /* ViewController.m */,
+				EC2FED8D17A7D19D00297E66 /* ViewController.xib */,
+				EC2FED7917A7D19C00297E66 /* Supporting Files */,
+			);
+			path = Tabviewtest;
+			sourceTree = "<group>";
+		};
+		EC2FED7917A7D19C00297E66 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC2FED7A17A7D19C00297E66 /* Tabviewtest-Info.plist */,
+				EC2FED7B17A7D19C00297E66 /* InfoPlist.strings */,
+				EC2FED7E17A7D19C00297E66 /* main.m */,
+				EC2FED8017A7D19D00297E66 /* Tabviewtest-Prefix.pch */,
+				EC2FED8417A7D19D00297E66 /* Default.png */,
+				EC2FED8617A7D19D00297E66 /* Default@2x.png */,
+				EC2FED8817A7D19D00297E66 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EC2FED9C17A7D19D00297E66 /* TabviewtestTests */ = {
+			isa = PBXGroup;
+			children = (
+				EC2FEDA217A7D19D00297E66 /* TabviewtestTests.h */,
+				EC2FEDA317A7D19D00297E66 /* TabviewtestTests.m */,
+				EC2FED9D17A7D19D00297E66 /* Supporting Files */,
+			);
+			path = TabviewtestTests;
+			sourceTree = "<group>";
+		};
+		EC2FED9D17A7D19D00297E66 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC2FED9E17A7D19D00297E66 /* TabviewtestTests-Info.plist */,
+				EC2FED9F17A7D19D00297E66 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC2FED6E17A7D19C00297E66 /* Tabviewtest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC2FEDA717A7D19D00297E66 /* Build configuration list for PBXNativeTarget "Tabviewtest" */;
+			buildPhases = (
+				EC2FED6B17A7D19C00297E66 /* Sources */,
+				EC2FED6C17A7D19C00297E66 /* Frameworks */,
+				EC2FED6D17A7D19C00297E66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Tabviewtest;
+			productName = Tabviewtest;
+			productReference = EC2FED6F17A7D19C00297E66 /* Tabviewtest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EC2FED9417A7D19D00297E66 /* TabviewtestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC2FEDAA17A7D19D00297E66 /* Build configuration list for PBXNativeTarget "TabviewtestTests" */;
+			buildPhases = (
+				EC2FED9017A7D19D00297E66 /* Sources */,
+				EC2FED9117A7D19D00297E66 /* Frameworks */,
+				EC2FED9217A7D19D00297E66 /* Resources */,
+				EC2FED9317A7D19D00297E66 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC2FED9B17A7D19D00297E66 /* PBXTargetDependency */,
+			);
+			name = TabviewtestTests;
+			productName = TabviewtestTests;
+			productReference = EC2FED9517A7D19D00297E66 /* TabviewtestTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC2FED6717A7D19C00297E66 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "broy denty";
+			};
+			buildConfigurationList = EC2FED6A17A7D19C00297E66 /* Build configuration list for PBXProject "Tabviewtest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EC2FED6617A7D19C00297E66;
+			productRefGroup = EC2FED7017A7D19C00297E66 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC2FED6E17A7D19C00297E66 /* Tabviewtest */,
+				EC2FED9417A7D19D00297E66 /* TabviewtestTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC2FED6D17A7D19C00297E66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC2FED7D17A7D19C00297E66 /* InfoPlist.strings in Resources */,
+				EC2FED8517A7D19D00297E66 /* Default.png in Resources */,
+				EC2FED8717A7D19D00297E66 /* Default@2x.png in Resources */,
+				EC2FED8917A7D19D00297E66 /* Default-568h@2x.png in Resources */,
+				EC2FED8F17A7D19D00297E66 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC2FED9217A7D19D00297E66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC2FEDA117A7D19D00297E66 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		EC2FED9317A7D19D00297E66 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC2FED6B17A7D19C00297E66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC2FED7F17A7D19C00297E66 /* main.m in Sources */,
+				EC2FED8317A7D19D00297E66 /* AppDelegate.m in Sources */,
+				EC2FED8C17A7D19D00297E66 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC2FED9017A7D19D00297E66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC2FEDA417A7D19D00297E66 /* TabviewtestTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EC2FED9B17A7D19D00297E66 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC2FED6E17A7D19C00297E66 /* Tabviewtest */;
+			targetProxy = EC2FED9A17A7D19D00297E66 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EC2FED7B17A7D19C00297E66 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC2FED7C17A7D19C00297E66 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EC2FED8D17A7D19D00297E66 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC2FED8E17A7D19D00297E66 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+		EC2FED9F17A7D19D00297E66 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC2FEDA017A7D19D00297E66 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC2FEDA517A7D19D00297E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EC2FEDA617A7D19D00297E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC2FEDA817A7D19D00297E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tabviewtest/Tabviewtest-Prefix.pch";
+				INFOPLIST_FILE = "Tabviewtest/Tabviewtest-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EC2FEDA917A7D19D00297E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tabviewtest/Tabviewtest-Prefix.pch";
+				INFOPLIST_FILE = "Tabviewtest/Tabviewtest-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		EC2FEDAB17A7D19D00297E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Tabviewtest.app/Tabviewtest";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tabviewtest/Tabviewtest-Prefix.pch";
+				INFOPLIST_FILE = "TabviewtestTests/TabviewtestTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		EC2FEDAC17A7D19D00297E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Tabviewtest.app/Tabviewtest";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tabviewtest/Tabviewtest-Prefix.pch";
+				INFOPLIST_FILE = "TabviewtestTests/TabviewtestTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC2FED6A17A7D19C00297E66 /* Build configuration list for PBXProject "Tabviewtest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC2FEDA517A7D19D00297E66 /* Debug */,
+				EC2FEDA617A7D19D00297E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC2FEDA717A7D19D00297E66 /* Build configuration list for PBXNativeTarget "Tabviewtest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC2FEDA817A7D19D00297E66 /* Debug */,
+				EC2FEDA917A7D19D00297E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EC2FEDAA17A7D19D00297E66 /* Build configuration list for PBXNativeTarget "TabviewtestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC2FEDAB17A7D19D00297E66 /* Debug */,
+				EC2FEDAC17A7D19D00297E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC2FED6717A7D19C00297E66 /* Project object */;
+}

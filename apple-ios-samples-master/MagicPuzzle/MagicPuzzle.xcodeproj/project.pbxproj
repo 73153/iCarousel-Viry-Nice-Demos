@@ -1,0 +1,1320 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC0BFC501908DA2000231AAC /* Copia di Girls 2_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC201908DA2000231AAC /* Copia di Girls 2_puzzle_thumb.jpg */; };
+		EC0BFC511908DA2000231AAC /* Copia di Girls_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC211908DA2000231AAC /* Copia di Girls_puzzle_thumb.jpg */; };
+		EC0BFC521908DA2000231AAC /* Copia di Hippo_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC221908DA2000231AAC /* Copia di Hippo_puzzle_thumb.jpg */; };
+		EC0BFC531908DA2000231AAC /* Copia di Horses_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC231908DA2000231AAC /* Copia di Horses_puzzle_thumb.jpg */; };
+		EC0BFC541908DA2000231AAC /* Copia di Hulk_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC241908DA2000231AAC /* Copia di Hulk_puzzle_thumb.jpg */; };
+		EC0BFC551908DA2000231AAC /* Copia di Kiwi_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC251908DA2000231AAC /* Copia di Kiwi_puzzle_thumb.jpg */; };
+		EC0BFC561908DA2000231AAC /* Copia di Lego_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC261908DA2000231AAC /* Copia di Lego_puzzle_thumb.jpg */; };
+		EC0BFC571908DA2000231AAC /* Copia di Lion_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC271908DA2000231AAC /* Copia di Lion_puzzle_thumb.jpg */; };
+		EC0BFC581908DA2000231AAC /* Copia di Matrioska_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC281908DA2000231AAC /* Copia di Matrioska_puzzle_thumb.jpg */; };
+		EC0BFC591908DA2000231AAC /* Copia di Micetto furbetto_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC291908DA2000231AAC /* Copia di Micetto furbetto_puzzle_thumb.jpg */; };
+		EC0BFC5A1908DA2000231AAC /* Copia di Micio mafioso_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC2A1908DA2000231AAC /* Copia di Micio mafioso_puzzle_thumb.jpg */; };
+		EC0BFC5B1908DA2000231AAC /* Copia di Micio matto_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC2B1908DA2000231AAC /* Copia di Micio matto_puzzle_thumb.jpg */; };
+		EC0BFC5C1908DA2000231AAC /* Copia di Micio pigrotto_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC2C1908DA2000231AAC /* Copia di Micio pigrotto_puzzle_thumb.jpg */; };
+		EC0BFC5D1908DA2000231AAC /* Copia di Mother board_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC2D1908DA2000231AAC /* Copia di Mother board_puzzle_thumb.jpg */; };
+		EC0BFC5E1908DA2000231AAC /* Copia di Mountains_puzzle_thumb.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC2E1908DA2000231AAC /* Copia di Mountains_puzzle_thumb.JPG */; };
+		EC0BFC5F1908DA2000231AAC /* Copia di Nano_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC2F1908DA2000231AAC /* Copia di Nano_puzzle_thumb.jpg */; };
+		EC0BFC601908DA2000231AAC /* Copia di Nice view_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC301908DA2000231AAC /* Copia di Nice view_puzzle_thumb.jpg */; };
+		EC0BFC611908DA2000231AAC /* Copia di Obiettivo_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC311908DA2000231AAC /* Copia di Obiettivo_puzzle_thumb.jpg */; };
+		EC0BFC621908DA2000231AAC /* Copia di Old car_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC321908DA2000231AAC /* Copia di Old car_puzzle_thumb.jpg */; };
+		EC0BFC631908DA2000231AAC /* Copia di Pane_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC331908DA2000231AAC /* Copia di Pane_puzzle_thumb.jpg */; };
+		EC0BFC641908DA2000231AAC /* Copia di Pasta_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC341908DA2000231AAC /* Copia di Pasta_puzzle_thumb.jpg */; };
+		EC0BFC651908DA2000231AAC /* Copia di Pencils_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC351908DA2000231AAC /* Copia di Pencils_puzzle_thumb.jpg */; };
+		EC0BFC661908DA2000231AAC /* Copia di Pizza_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC361908DA2000231AAC /* Copia di Pizza_puzzle_thumb.jpg */; };
+		EC0BFC671908DA2000231AAC /* Copia di PlayStation_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC371908DA2000231AAC /* Copia di PlayStation_puzzle_thumb.jpg */; };
+		EC0BFC681908DA2000231AAC /* Copia di Rectil_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC381908DA2000231AAC /* Copia di Rectil_puzzle_thumb.jpg */; };
+		EC0BFC691908DA2000231AAC /* Copia di The_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC391908DA2000231AAC /* Copia di The_puzzle_thumb.jpg */; };
+		EC0BFC6A1908DA2000231AAC /* Copia di Tiger_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC3A1908DA2000231AAC /* Copia di Tiger_puzzle_thumb.jpg */; };
+		EC0BFC6B1908DA2000231AAC /* Copia di Yellow_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC3B1908DA2000231AAC /* Copia di Yellow_puzzle_thumb.jpg */; };
+		EC0BFC951908E76800231AAC /* .macroplant_._ic_title_list@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC6D1908E76800231AAC /* .macroplant_._ic_title_list@2x.png */; };
+		EC0BFC961908E76800231AAC /* .macroplant_._ic_title_list_night@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC6E1908E76800231AAC /* .macroplant_._ic_title_list_night@2x.png */; };
+		EC0BFC971908E76800231AAC /* action-icon-camera-active.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC6F1908E76800231AAC /* action-icon-camera-active.png */; };
+		EC0BFC981908E76800231AAC /* action-icon-camera-active@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC701908E76800231AAC /* action-icon-camera-active@2x.png */; };
+		EC0BFC991908E76800231AAC /* action-icon-camera.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC711908E76800231AAC /* action-icon-camera.png */; };
+		EC0BFC9A1908E76800231AAC /* action-icon-camera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC721908E76800231AAC /* action-icon-camera@2x.png */; };
+		EC0BFC9B1908E76800231AAC /* action-icon-home-black.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC731908E76800231AAC /* action-icon-home-black.png */; };
+		EC0BFC9C1908E76800231AAC /* action-icon-home-black@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC741908E76800231AAC /* action-icon-home-black@2x.png */; };
+		EC0BFC9D1908E76800231AAC /* action-icon-home-white.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC751908E76800231AAC /* action-icon-home-white.png */; };
+		EC0BFC9E1908E76800231AAC /* action-icon-home-white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC761908E76800231AAC /* action-icon-home-white@2x.png */; };
+		EC0BFC9F1908E76800231AAC /* AlertErrorIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC771908E76800231AAC /* AlertErrorIcon.png */; };
+		EC0BFCA01908E76800231AAC /* AlertErrorIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC781908E76800231AAC /* AlertErrorIcon@2x.png */; };
+		EC0BFCA11908E76800231AAC /* ic_list_app@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC791908E76800231AAC /* ic_list_app@2x.png */; };
+		EC0BFCA21908E76800231AAC /* ic_list_app_night@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC7A1908E76800231AAC /* ic_list_app_night@2x.png */; };
+		EC0BFCA31908E76800231AAC /* ic_list_home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC7B1908E76800231AAC /* ic_list_home@2x.png */; };
+		EC0BFCA41908E76800231AAC /* ic_list_home_night@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC7C1908E76800231AAC /* ic_list_home_night@2x.png */; };
+		EC0BFCA51908E76800231AAC /* ic_list_settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC7D1908E76800231AAC /* ic_list_settings@2x.png */; };
+		EC0BFCA61908E76800231AAC /* ic_list_settings_night@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC7E1908E76800231AAC /* ic_list_settings_night@2x.png */; };
+		EC0BFCA71908E76800231AAC /* ic_title_list@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC7F1908E76800231AAC /* ic_title_list@2x.png */; };
+		EC0BFCA81908E76800231AAC /* ic_title_list_night@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC801908E76800231AAC /* ic_title_list_night@2x.png */; };
+		EC0BFCA91908E76800231AAC /* icon-unread.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC811908E76800231AAC /* icon-unread.png */; };
+		EC0BFCAA1908E76800231AAC /* icon-unread@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC821908E76800231AAC /* icon-unread@2x.png */; };
+		EC0BFCAB1908E76800231AAC /* ListRepeat.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC831908E76800231AAC /* ListRepeat.png */; };
+		EC0BFCAC1908E76800231AAC /* ListRepeat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC841908E76800231AAC /* ListRepeat@2x.png */; };
+		EC0BFCAD1908E76800231AAC /* ListRepeatHight.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC851908E76800231AAC /* ListRepeatHight.png */; };
+		EC0BFCAE1908E76800231AAC /* ListRepeatHight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC861908E76800231AAC /* ListRepeatHight@2x.png */; };
+		EC0BFCAF1908E76800231AAC /* Login_phone.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC871908E76800231AAC /* Login_phone.png */; };
+		EC0BFCB01908E76800231AAC /* Login_phone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC881908E76800231AAC /* Login_phone@2x.png */; };
+		EC0BFCB11908E76800231AAC /* Login_phoneIcon_Sel.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC891908E76800231AAC /* Login_phoneIcon_Sel.png */; };
+		EC0BFCB21908E76800231AAC /* Login_phoneIcon_Sel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC8A1908E76800231AAC /* Login_phoneIcon_Sel@2x.png */; };
+		EC0BFCB31908E76800231AAC /* More_Help.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC8B1908E76800231AAC /* More_Help.png */; };
+		EC0BFCB41908E76800231AAC /* More_Help@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC8C1908E76800231AAC /* More_Help@2x.png */; };
+		EC0BFCB51908E76800231AAC /* OrderPlay.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC8D1908E76800231AAC /* OrderPlay.png */; };
+		EC0BFCB61908E76800231AAC /* OrderPlay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC8E1908E76800231AAC /* OrderPlay@2x.png */; };
+		EC0BFCB71908E76800231AAC /* OrderPlayHight.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC8F1908E76800231AAC /* OrderPlayHight.png */; };
+		EC0BFCB81908E76800231AAC /* OrderPlayHight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC901908E76800231AAC /* OrderPlayHight@2x.png */; };
+		EC0BFCB91908E76800231AAC /* sync_error.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC911908E76800231AAC /* sync_error.png */; };
+		EC0BFCBA1908E76800231AAC /* sync_error@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC921908E76800231AAC /* sync_error@2x.png */; };
+		EC0BFCBB1908E76800231AAC /* tools_bookmark_yes.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC931908E76800231AAC /* tools_bookmark_yes.png */; };
+		EC0BFCBC1908E76800231AAC /* tools_bookmark_yes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFC941908E76800231AAC /* tools_bookmark_yes@2x.png */; };
+		EC0BFCCC19090C8100231AAC /* All seeing eye_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC119090C8100231AAC /* All seeing eye_Easy_puzzle.jpg */; };
+		EC0BFCCD19090C8100231AAC /* Amsterdam bikes_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC219090C8100231AAC /* Amsterdam bikes_Easy_puzzle.jpg */; };
+		EC0BFCCE19090C8100231AAC /* Amsterdam signs_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC319090C8100231AAC /* Amsterdam signs_Easy_puzzle.jpg */; };
+		EC0BFCCF19090C8100231AAC /* Buddah Bellin_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC419090C8100231AAC /* Buddah Bellin_Easy_puzzle.jpg */; };
+		EC0BFCD019090C8100231AAC /* Buddah_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC519090C8100231AAC /* Buddah_Easy_puzzle.jpg */; };
+		EC0BFCD119090C8100231AAC /* Bulldog_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC619090C8100231AAC /* Bulldog_Easy_puzzle.jpg */; };
+		EC0BFCD219090C8100231AAC /* Butterfly_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC719090C8100231AAC /* Butterfly_Easy_puzzle.jpg */; };
+		EC0BFCD319090C8100231AAC /* Car_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC819090C8100231AAC /* Car_Easy_puzzle.jpg */; };
+		EC0BFCD419090C8100231AAC /* Chess_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCC919090C8100231AAC /* Chess_Easy_puzzle.jpg */; };
+		EC0BFCD519090C8100231AAC /* Chines chess_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCCA19090C8100231AAC /* Chines chess_Easy_puzzle.jpg */; };
+		EC0BFCD619090C8100231AAC /* Colors_Easy_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCCB19090C8100231AAC /* Colors_Easy_puzzle.jpg */; };
+		EC0BFCE219090C8E00231AAC /* Copia di All seeing eye_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCD719090C8E00231AAC /* Copia di All seeing eye_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE319090C8E00231AAC /* Copia di Amsterdam bikes_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCD819090C8E00231AAC /* Copia di Amsterdam bikes_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE419090C8E00231AAC /* Copia di Amsterdam signs_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCD919090C8E00231AAC /* Copia di Amsterdam signs_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE519090C8E00231AAC /* Copia di Buddah Bellin_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCDA19090C8E00231AAC /* Copia di Buddah Bellin_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE619090C8E00231AAC /* Copia di Buddah_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCDB19090C8E00231AAC /* Copia di Buddah_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE719090C8E00231AAC /* Copia di Bulldog_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCDC19090C8E00231AAC /* Copia di Bulldog_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE819090C8E00231AAC /* Copia di Butterfly_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCDD19090C8E00231AAC /* Copia di Butterfly_Easy_puzzle_thumb.jpg */; };
+		EC0BFCE919090C8E00231AAC /* Copia di Car_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCDE19090C8E00231AAC /* Copia di Car_Easy_puzzle_thumb.jpg */; };
+		EC0BFCEA19090C8E00231AAC /* Copia di Chess_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCDF19090C8E00231AAC /* Copia di Chess_Easy_puzzle_thumb.jpg */; };
+		EC0BFCEB19090C8E00231AAC /* Copia di Chines chess_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCE019090C8E00231AAC /* Copia di Chines chess_Easy_puzzle_thumb.jpg */; };
+		EC0BFCEC19090C8E00231AAC /* Copia di Colors_Easy_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCE119090C8E00231AAC /* Copia di Colors_Easy_puzzle_thumb.jpg */; };
+		EC0BFCF619091CBA00231AAC /* Drops_Hard_puzzle.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCED19091CBA00231AAC /* Drops_Hard_puzzle.JPG */; };
+		EC0BFCF719091CBA00231AAC /* Duck_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCEE19091CBA00231AAC /* Duck_Hard_puzzle.jpg */; };
+		EC0BFCF819091CBA00231AAC /* Earth music_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCEF19091CBA00231AAC /* Earth music_Hard_puzzle.jpg */; };
+		EC0BFCF919091CBA00231AAC /* Earth_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCF019091CBA00231AAC /* Earth_Hard_puzzle.jpg */; };
+		EC0BFCFA19091CBA00231AAC /* Fishing_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCF119091CBA00231AAC /* Fishing_Hard_puzzle.jpg */; };
+		EC0BFCFB19091CBA00231AAC /* Flower_Hard_puzzle.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCF219091CBA00231AAC /* Flower_Hard_puzzle.JPG */; };
+		EC0BFCFC19091CBA00231AAC /* Fontana di trevi_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCF319091CBA00231AAC /* Fontana di trevi_Hard_puzzle.jpg */; };
+		EC0BFCFD19091CBA00231AAC /* Fractal leaf_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCF419091CBA00231AAC /* Fractal leaf_Hard_puzzle.jpg */; };
+		EC0BFCFE19091CBA00231AAC /* Girl_Hard_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCF519091CBA00231AAC /* Girl_Hard_puzzle.jpg */; };
+		EC0BFD0819091CCC00231AAC /* Copia di Drops_Hard_puzzle_thumb.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFCFF19091CCC00231AAC /* Copia di Drops_Hard_puzzle_thumb.JPG */; };
+		EC0BFD0919091CCC00231AAC /* Copia di Duck_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0019091CCC00231AAC /* Copia di Duck_Hard_puzzle_thumb.jpg */; };
+		EC0BFD0A19091CCC00231AAC /* Copia di Earth music_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0119091CCC00231AAC /* Copia di Earth music_Hard_puzzle_thumb.jpg */; };
+		EC0BFD0B19091CCC00231AAC /* Copia di Earth_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0219091CCC00231AAC /* Copia di Earth_Hard_puzzle_thumb.jpg */; };
+		EC0BFD0C19091CCC00231AAC /* Copia di Fishing_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0319091CCC00231AAC /* Copia di Fishing_Hard_puzzle_thumb.jpg */; };
+		EC0BFD0D19091CCC00231AAC /* Copia di Flower_Hard_puzzle_thumb.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0419091CCC00231AAC /* Copia di Flower_Hard_puzzle_thumb.JPG */; };
+		EC0BFD0E19091CCC00231AAC /* Copia di Fontana di trevi_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0519091CCC00231AAC /* Copia di Fontana di trevi_Hard_puzzle_thumb.jpg */; };
+		EC0BFD0F19091CCC00231AAC /* Copia di Fractal leaf_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0619091CCC00231AAC /* Copia di Fractal leaf_Hard_puzzle_thumb.jpg */; };
+		EC0BFD1019091CCC00231AAC /* Copia di Girl_Hard_puzzle_thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0BFD0719091CCC00231AAC /* Copia di Girl_Hard_puzzle_thumb.jpg */; };
+		EC0E2DAB18F7C77C004E3DE5 /* GMGridView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0E2D9E18F7C77C004E3DE5 /* GMGridView.m */; };
+		EC0E2DAC18F7C77C004E3DE5 /* GMGridViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0E2DA118F7C77C004E3DE5 /* GMGridViewCell.m */; };
+		EC0E2DAD18F7C77C004E3DE5 /* GMGridViewLayoutStrategies.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0E2DA318F7C77C004E3DE5 /* GMGridViewLayoutStrategies.m */; };
+		EC0E2DAE18F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0E2DA518F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.m */; };
+		EC0E2DAF18F7C77C004E3DE5 /* UIView+GMGridViewAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0E2DA718F7C77C004E3DE5 /* UIView+GMGridViewAdditions.m */; };
+		EC0E2DB018F7C77C004E3DE5 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0E2DAA18F7C77C004E3DE5 /* UIView+Toast.m */; };
+		EC0F2263190A375D00763944 /* MainModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0F2260190A375D00763944 /* MainModel.m */; };
+		EC0F2264190A375D00763944 /* puzzleImageModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0F2262190A375D00763944 /* puzzleImageModel.m */; };
+		EC1624D319012E26003B4365 /* LocalAlbumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1624D119012E26003B4365 /* LocalAlbumViewController.m */; };
+		EC1624D419012E26003B4365 /* LocalAlbumViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC1624D219012E26003B4365 /* LocalAlbumViewController.xib */; };
+		EC1BA11C1904BED400EC6FD3 /* ImagePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1BA11A1904BED400EC6FD3 /* ImagePickerViewController.m */; };
+		EC1BA11D1904BED400EC6FD3 /* ImagePickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC1BA11B1904BED400EC6FD3 /* ImagePickerViewController.xib */; };
+		EC1BA1211904C31C00EC6FD3 /* SWSnapshotStackView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1BA1201904C31C00EC6FD3 /* SWSnapshotStackView.m */; };
+		EC1BA1251904C32900EC6FD3 /* UIImage+additions.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1BA1241904C32900EC6FD3 /* UIImage+additions.m */; };
+		EC22AA8118F513AB005B6982 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8018F513AB005B6982 /* Foundation.framework */; };
+		EC22AA8318F513AB005B6982 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8218F513AB005B6982 /* CoreGraphics.framework */; };
+		EC22AA8518F513AB005B6982 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8418F513AB005B6982 /* UIKit.framework */; };
+		EC22AA8718F513AB005B6982 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8618F513AB005B6982 /* CoreData.framework */; };
+		EC22AA8D18F513AB005B6982 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC22AA8B18F513AB005B6982 /* InfoPlist.strings */; };
+		EC22AA8F18F513AB005B6982 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC22AA8E18F513AB005B6982 /* main.m */; };
+		EC22AA9318F513AB005B6982 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC22AA9218F513AB005B6982 /* AppDelegate.m */; };
+		EC22AA9618F513AB005B6982 /* MagicPuzzle.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EC22AA9418F513AB005B6982 /* MagicPuzzle.xcdatamodeld */; };
+		EC22AA9818F513AB005B6982 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC22AA9718F513AB005B6982 /* Images.xcassets */; };
+		EC22AA9F18F513AB005B6982 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA9E18F513AB005B6982 /* XCTest.framework */; };
+		EC22AAA018F513AB005B6982 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8018F513AB005B6982 /* Foundation.framework */; };
+		EC22AAA118F513AB005B6982 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8418F513AB005B6982 /* UIKit.framework */; };
+		EC22AAA218F513AB005B6982 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22AA8618F513AB005B6982 /* CoreData.framework */; };
+		EC22AAAA18F513AB005B6982 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC22AAA818F513AB005B6982 /* InfoPlist.strings */; };
+		EC22AAAC18F513AB005B6982 /* MagicPuzzleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC22AAAB18F513AB005B6982 /* MagicPuzzleTests.m */; };
+		EC22AAB918F51447005B6982 /* PuzzleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC22AAB718F51447005B6982 /* PuzzleViewController.m */; };
+		EC22AABA18F51447005B6982 /* PuzzleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC22AAB818F51447005B6982 /* PuzzleViewController.xib */; };
+		EC2DCBDB19051F6100AE202D /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2DCBDA19051F6100AE202D /* iCarousel.m */; };
+		EC2DCBDE19051FF800AE202D /* CoverFlowView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2DCBDD19051FF800AE202D /* CoverFlowView.m */; };
+		EC3300291907515A00642CF6 /* ASOBounceButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3300271907515A00642CF6 /* ASOBounceButtonView.m */; };
+		EC33002C19075BF700642CF6 /* BounceButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC33002B19075BF700642CF6 /* BounceButtonView.m */; };
+		EC33002F19076D2C00642CF6 /* ASOTwoStateButton.m in Sources */ = {isa = PBXBuildFile; fileRef = EC33002E19076D2C00642CF6 /* ASOTwoStateButton.m */; };
+		EC4961BB18FBDB6600EDEAED /* ChooseLabel.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961AF18FBDB6600EDEAED /* ChooseLabel.png */; };
+		EC4961BC18FBDB6600EDEAED /* ChooseLabel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B018FBDB6600EDEAED /* ChooseLabel@2x.png */; };
+		EC4961BD18FBDB6600EDEAED /* Menu.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B118FBDB6600EDEAED /* Menu.png */; };
+		EC4961BE18FBDB6600EDEAED /* Menu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B218FBDB6600EDEAED /* Menu@2x.png */; };
+		EC4961BF18FBDB6600EDEAED /* PanningSwitch.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B318FBDB6600EDEAED /* PanningSwitch.png */; };
+		EC4961C018FBDB6600EDEAED /* PanningSwitch@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B418FBDB6600EDEAED /* PanningSwitch@2x.png */; };
+		EC4961C118FBDB6600EDEAED /* PuzzleComplete.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B518FBDB6600EDEAED /* PuzzleComplete.png */; };
+		EC4961C218FBDB6600EDEAED /* PuzzleComplete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B618FBDB6600EDEAED /* PuzzleComplete@2x.png */; };
+		EC4961C318FBDB6600EDEAED /* PuzzleComplete_iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B718FBDB6600EDEAED /* PuzzleComplete_iPhone.png */; };
+		EC4961C418FBDB6600EDEAED /* PuzzleComplete_iPhone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B818FBDB6600EDEAED /* PuzzleComplete_iPhone@2x.png */; };
+		EC4961C518FBDB6600EDEAED /* Wood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC4961B918FBDB6600EDEAED /* Wood.jpg */; };
+		EC4961C618FBDB6600EDEAED /* Wood@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC4961BA18FBDB6600EDEAED /* Wood@2x.jpg */; };
+		EC9A7C85191CD6CE0083FBFE /* mark.png in Resources */ = {isa = PBXBuildFile; fileRef = EC9A7C84191CD6CE0083FBFE /* mark.png */; };
+		ECF915D61906575F00366F4B /* Girls 2_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915A61906575F00366F4B /* Girls 2_puzzle.jpg */; };
+		ECF915D71906575F00366F4B /* Girls_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915A71906575F00366F4B /* Girls_puzzle.jpg */; };
+		ECF915D81906575F00366F4B /* Hippo_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915A81906575F00366F4B /* Hippo_puzzle.jpg */; };
+		ECF915D91906575F00366F4B /* Horses_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915A91906575F00366F4B /* Horses_puzzle.jpg */; };
+		ECF915DA1906575F00366F4B /* Hulk_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915AA1906575F00366F4B /* Hulk_puzzle.jpg */; };
+		ECF915DB1906575F00366F4B /* Kiwi_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915AB1906575F00366F4B /* Kiwi_puzzle.jpg */; };
+		ECF915DC1906575F00366F4B /* Lego_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915AC1906575F00366F4B /* Lego_puzzle.jpg */; };
+		ECF915DD1906575F00366F4B /* Lion_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915AD1906575F00366F4B /* Lion_puzzle.jpg */; };
+		ECF915DE1906575F00366F4B /* Matrioska_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915AE1906575F00366F4B /* Matrioska_puzzle.jpg */; };
+		ECF915DF1906575F00366F4B /* Micetto furbetto_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915AF1906575F00366F4B /* Micetto furbetto_puzzle.jpg */; };
+		ECF915E01906575F00366F4B /* Micio mafioso_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B01906575F00366F4B /* Micio mafioso_puzzle.jpg */; };
+		ECF915E11906575F00366F4B /* Micio matto_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B11906575F00366F4B /* Micio matto_puzzle.jpg */; };
+		ECF915E21906575F00366F4B /* Micio pigrotto_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B21906575F00366F4B /* Micio pigrotto_puzzle.jpg */; };
+		ECF915E31906575F00366F4B /* Mother board_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B31906575F00366F4B /* Mother board_puzzle.jpg */; };
+		ECF915E41906575F00366F4B /* Mountains_puzzle.JPG in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B41906575F00366F4B /* Mountains_puzzle.JPG */; };
+		ECF915E51906575F00366F4B /* Nano_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B51906575F00366F4B /* Nano_puzzle.jpg */; };
+		ECF915E61906575F00366F4B /* Nice view_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B61906575F00366F4B /* Nice view_puzzle.jpg */; };
+		ECF915E71906575F00366F4B /* Obiettivo_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B71906575F00366F4B /* Obiettivo_puzzle.jpg */; };
+		ECF915E81906575F00366F4B /* Old car_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B81906575F00366F4B /* Old car_puzzle.jpg */; };
+		ECF915E91906575F00366F4B /* Pane_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915B91906575F00366F4B /* Pane_puzzle.jpg */; };
+		ECF915EA1906575F00366F4B /* Pasta_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915BA1906575F00366F4B /* Pasta_puzzle.jpg */; };
+		ECF915EB1906575F00366F4B /* Pencils_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915BB1906575F00366F4B /* Pencils_puzzle.jpg */; };
+		ECF915EC1906575F00366F4B /* Pizza_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915BC1906575F00366F4B /* Pizza_puzzle.jpg */; };
+		ECF915ED1906575F00366F4B /* PlayStation_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915BD1906575F00366F4B /* PlayStation_puzzle.jpg */; };
+		ECF915EE1906575F00366F4B /* Rectil_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915BE1906575F00366F4B /* Rectil_puzzle.jpg */; };
+		ECF915EF1906575F00366F4B /* The_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915BF1906575F00366F4B /* The_puzzle.jpg */; };
+		ECF915F01906575F00366F4B /* Tiger_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915C01906575F00366F4B /* Tiger_puzzle.jpg */; };
+		ECF915F11906575F00366F4B /* Yellow_puzzle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECF915C11906575F00366F4B /* Yellow_puzzle.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EC22AAA318F513AB005B6982 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC22AA7518F513AB005B6982 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC22AA7C18F513AB005B6982;
+			remoteInfo = MagicPuzzle;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EC0BFC201908DA2000231AAC /* Copia di Girls 2_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Girls 2_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC211908DA2000231AAC /* Copia di Girls_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Girls_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC221908DA2000231AAC /* Copia di Hippo_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Hippo_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC231908DA2000231AAC /* Copia di Horses_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Horses_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC241908DA2000231AAC /* Copia di Hulk_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Hulk_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC251908DA2000231AAC /* Copia di Kiwi_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Kiwi_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC261908DA2000231AAC /* Copia di Lego_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Lego_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC271908DA2000231AAC /* Copia di Lion_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Lion_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC281908DA2000231AAC /* Copia di Matrioska_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Matrioska_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC291908DA2000231AAC /* Copia di Micetto furbetto_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Micetto furbetto_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC2A1908DA2000231AAC /* Copia di Micio mafioso_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Micio mafioso_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC2B1908DA2000231AAC /* Copia di Micio matto_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Micio matto_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC2C1908DA2000231AAC /* Copia di Micio pigrotto_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Micio pigrotto_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC2D1908DA2000231AAC /* Copia di Mother board_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Mother board_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC2E1908DA2000231AAC /* Copia di Mountains_puzzle_thumb.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Mountains_puzzle_thumb.JPG"; sourceTree = "<group>"; };
+		EC0BFC2F1908DA2000231AAC /* Copia di Nano_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Nano_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC301908DA2000231AAC /* Copia di Nice view_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Nice view_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC311908DA2000231AAC /* Copia di Obiettivo_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Obiettivo_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC321908DA2000231AAC /* Copia di Old car_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Old car_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC331908DA2000231AAC /* Copia di Pane_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Pane_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC341908DA2000231AAC /* Copia di Pasta_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Pasta_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC351908DA2000231AAC /* Copia di Pencils_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Pencils_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC361908DA2000231AAC /* Copia di Pizza_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Pizza_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC371908DA2000231AAC /* Copia di PlayStation_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di PlayStation_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC381908DA2000231AAC /* Copia di Rectil_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Rectil_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC391908DA2000231AAC /* Copia di The_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di The_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC3A1908DA2000231AAC /* Copia di Tiger_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Tiger_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC3B1908DA2000231AAC /* Copia di Yellow_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Yellow_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFC6D1908E76800231AAC /* .macroplant_._ic_title_list@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ".macroplant_._ic_title_list@2x.png"; sourceTree = "<group>"; };
+		EC0BFC6E1908E76800231AAC /* .macroplant_._ic_title_list_night@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ".macroplant_._ic_title_list_night@2x.png"; sourceTree = "<group>"; };
+		EC0BFC6F1908E76800231AAC /* action-icon-camera-active.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-camera-active.png"; sourceTree = "<group>"; };
+		EC0BFC701908E76800231AAC /* action-icon-camera-active@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-camera-active@2x.png"; sourceTree = "<group>"; };
+		EC0BFC711908E76800231AAC /* action-icon-camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-camera.png"; sourceTree = "<group>"; };
+		EC0BFC721908E76800231AAC /* action-icon-camera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-camera@2x.png"; sourceTree = "<group>"; };
+		EC0BFC731908E76800231AAC /* action-icon-home-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-home-black.png"; sourceTree = "<group>"; };
+		EC0BFC741908E76800231AAC /* action-icon-home-black@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-home-black@2x.png"; sourceTree = "<group>"; };
+		EC0BFC751908E76800231AAC /* action-icon-home-white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-home-white.png"; sourceTree = "<group>"; };
+		EC0BFC761908E76800231AAC /* action-icon-home-white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "action-icon-home-white@2x.png"; sourceTree = "<group>"; };
+		EC0BFC771908E76800231AAC /* AlertErrorIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AlertErrorIcon.png; sourceTree = "<group>"; };
+		EC0BFC781908E76800231AAC /* AlertErrorIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AlertErrorIcon@2x.png"; sourceTree = "<group>"; };
+		EC0BFC791908E76800231AAC /* ic_list_app@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_list_app@2x.png"; sourceTree = "<group>"; };
+		EC0BFC7A1908E76800231AAC /* ic_list_app_night@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_list_app_night@2x.png"; sourceTree = "<group>"; };
+		EC0BFC7B1908E76800231AAC /* ic_list_home@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_list_home@2x.png"; sourceTree = "<group>"; };
+		EC0BFC7C1908E76800231AAC /* ic_list_home_night@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_list_home_night@2x.png"; sourceTree = "<group>"; };
+		EC0BFC7D1908E76800231AAC /* ic_list_settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_list_settings@2x.png"; sourceTree = "<group>"; };
+		EC0BFC7E1908E76800231AAC /* ic_list_settings_night@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_list_settings_night@2x.png"; sourceTree = "<group>"; };
+		EC0BFC7F1908E76800231AAC /* ic_title_list@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_title_list@2x.png"; sourceTree = "<group>"; };
+		EC0BFC801908E76800231AAC /* ic_title_list_night@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_title_list_night@2x.png"; sourceTree = "<group>"; };
+		EC0BFC811908E76800231AAC /* icon-unread.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-unread.png"; sourceTree = "<group>"; };
+		EC0BFC821908E76800231AAC /* icon-unread@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-unread@2x.png"; sourceTree = "<group>"; };
+		EC0BFC831908E76800231AAC /* ListRepeat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ListRepeat.png; sourceTree = "<group>"; };
+		EC0BFC841908E76800231AAC /* ListRepeat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ListRepeat@2x.png"; sourceTree = "<group>"; };
+		EC0BFC851908E76800231AAC /* ListRepeatHight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ListRepeatHight.png; sourceTree = "<group>"; };
+		EC0BFC861908E76800231AAC /* ListRepeatHight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ListRepeatHight@2x.png"; sourceTree = "<group>"; };
+		EC0BFC871908E76800231AAC /* Login_phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Login_phone.png; sourceTree = "<group>"; };
+		EC0BFC881908E76800231AAC /* Login_phone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_phone@2x.png"; sourceTree = "<group>"; };
+		EC0BFC891908E76800231AAC /* Login_phoneIcon_Sel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Login_phoneIcon_Sel.png; sourceTree = "<group>"; };
+		EC0BFC8A1908E76800231AAC /* Login_phoneIcon_Sel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_phoneIcon_Sel@2x.png"; sourceTree = "<group>"; };
+		EC0BFC8B1908E76800231AAC /* More_Help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = More_Help.png; sourceTree = "<group>"; };
+		EC0BFC8C1908E76800231AAC /* More_Help@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "More_Help@2x.png"; sourceTree = "<group>"; };
+		EC0BFC8D1908E76800231AAC /* OrderPlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OrderPlay.png; sourceTree = "<group>"; };
+		EC0BFC8E1908E76800231AAC /* OrderPlay@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "OrderPlay@2x.png"; sourceTree = "<group>"; };
+		EC0BFC8F1908E76800231AAC /* OrderPlayHight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OrderPlayHight.png; sourceTree = "<group>"; };
+		EC0BFC901908E76800231AAC /* OrderPlayHight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "OrderPlayHight@2x.png"; sourceTree = "<group>"; };
+		EC0BFC911908E76800231AAC /* sync_error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sync_error.png; sourceTree = "<group>"; };
+		EC0BFC921908E76800231AAC /* sync_error@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sync_error@2x.png"; sourceTree = "<group>"; };
+		EC0BFC931908E76800231AAC /* tools_bookmark_yes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tools_bookmark_yes.png; sourceTree = "<group>"; };
+		EC0BFC941908E76800231AAC /* tools_bookmark_yes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tools_bookmark_yes@2x.png"; sourceTree = "<group>"; };
+		EC0BFCC119090C8100231AAC /* All seeing eye_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "All seeing eye_Easy_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCC219090C8100231AAC /* Amsterdam bikes_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Amsterdam bikes_Easy_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCC319090C8100231AAC /* Amsterdam signs_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Amsterdam signs_Easy_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCC419090C8100231AAC /* Buddah Bellin_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Buddah Bellin_Easy_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCC519090C8100231AAC /* Buddah_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Buddah_Easy_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCC619090C8100231AAC /* Bulldog_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bulldog_Easy_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCC719090C8100231AAC /* Butterfly_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Butterfly_Easy_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCC819090C8100231AAC /* Car_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Car_Easy_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCC919090C8100231AAC /* Chess_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chess_Easy_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCCA19090C8100231AAC /* Chines chess_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chines chess_Easy_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCCB19090C8100231AAC /* Colors_Easy_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Colors_Easy_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCD719090C8E00231AAC /* Copia di All seeing eye_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di All seeing eye_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCD819090C8E00231AAC /* Copia di Amsterdam bikes_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Amsterdam bikes_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCD919090C8E00231AAC /* Copia di Amsterdam signs_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Amsterdam signs_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCDA19090C8E00231AAC /* Copia di Buddah Bellin_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Buddah Bellin_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCDB19090C8E00231AAC /* Copia di Buddah_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Buddah_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCDC19090C8E00231AAC /* Copia di Bulldog_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Bulldog_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCDD19090C8E00231AAC /* Copia di Butterfly_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Butterfly_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCDE19090C8E00231AAC /* Copia di Car_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Car_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCDF19090C8E00231AAC /* Copia di Chess_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Chess_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCE019090C8E00231AAC /* Copia di Chines chess_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Chines chess_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCE119090C8E00231AAC /* Copia di Colors_Easy_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Colors_Easy_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFCED19091CBA00231AAC /* Drops_Hard_puzzle.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Drops_Hard_puzzle.JPG; sourceTree = "<group>"; };
+		EC0BFCEE19091CBA00231AAC /* Duck_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Duck_Hard_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCEF19091CBA00231AAC /* Earth music_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Earth music_Hard_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCF019091CBA00231AAC /* Earth_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Earth_Hard_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCF119091CBA00231AAC /* Fishing_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fishing_Hard_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCF219091CBA00231AAC /* Flower_Hard_puzzle.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Flower_Hard_puzzle.JPG; sourceTree = "<group>"; };
+		EC0BFCF319091CBA00231AAC /* Fontana di trevi_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fontana di trevi_Hard_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCF419091CBA00231AAC /* Fractal leaf_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fractal leaf_Hard_puzzle.jpg"; sourceTree = "<group>"; };
+		EC0BFCF519091CBA00231AAC /* Girl_Hard_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Girl_Hard_puzzle.jpg; sourceTree = "<group>"; };
+		EC0BFCFF19091CCC00231AAC /* Copia di Drops_Hard_puzzle_thumb.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Drops_Hard_puzzle_thumb.JPG"; sourceTree = "<group>"; };
+		EC0BFD0019091CCC00231AAC /* Copia di Duck_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Duck_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFD0119091CCC00231AAC /* Copia di Earth music_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Earth music_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFD0219091CCC00231AAC /* Copia di Earth_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Earth_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFD0319091CCC00231AAC /* Copia di Fishing_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Fishing_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFD0419091CCC00231AAC /* Copia di Flower_Hard_puzzle_thumb.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Flower_Hard_puzzle_thumb.JPG"; sourceTree = "<group>"; };
+		EC0BFD0519091CCC00231AAC /* Copia di Fontana di trevi_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Fontana di trevi_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFD0619091CCC00231AAC /* Copia di Fractal leaf_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Fractal leaf_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0BFD0719091CCC00231AAC /* Copia di Girl_Hard_puzzle_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Copia di Girl_Hard_puzzle_thumb.jpg"; sourceTree = "<group>"; };
+		EC0E2D9C18F7C77C004E3DE5 /* GMGridView-Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GMGridView-Constants.h"; sourceTree = "<group>"; };
+		EC0E2D9D18F7C77C004E3DE5 /* GMGridView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMGridView.h; sourceTree = "<group>"; };
+		EC0E2D9E18F7C77C004E3DE5 /* GMGridView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GMGridView.m; sourceTree = "<group>"; };
+		EC0E2D9F18F7C77C004E3DE5 /* GMGridViewCell+Extended.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GMGridViewCell+Extended.h"; sourceTree = "<group>"; };
+		EC0E2DA018F7C77C004E3DE5 /* GMGridViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMGridViewCell.h; sourceTree = "<group>"; };
+		EC0E2DA118F7C77C004E3DE5 /* GMGridViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GMGridViewCell.m; sourceTree = "<group>"; };
+		EC0E2DA218F7C77C004E3DE5 /* GMGridViewLayoutStrategies.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMGridViewLayoutStrategies.h; sourceTree = "<group>"; };
+		EC0E2DA318F7C77C004E3DE5 /* GMGridViewLayoutStrategies.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GMGridViewLayoutStrategies.m; sourceTree = "<group>"; };
+		EC0E2DA418F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIGestureRecognizer+GMGridViewAdditions.h"; sourceTree = "<group>"; };
+		EC0E2DA518F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIGestureRecognizer+GMGridViewAdditions.m"; sourceTree = "<group>"; };
+		EC0E2DA618F7C77C004E3DE5 /* UIView+GMGridViewAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+GMGridViewAdditions.h"; sourceTree = "<group>"; };
+		EC0E2DA718F7C77C004E3DE5 /* UIView+GMGridViewAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+GMGridViewAdditions.m"; sourceTree = "<group>"; };
+		EC0E2DA918F7C77C004E3DE5 /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
+		EC0E2DAA18F7C77C004E3DE5 /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
+		EC0F225F190A375D00763944 /* MainModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainModel.h; path = model/MainModel.h; sourceTree = "<group>"; };
+		EC0F2260190A375D00763944 /* MainModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainModel.m; path = model/MainModel.m; sourceTree = "<group>"; };
+		EC0F2261190A375D00763944 /* puzzleImageModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = puzzleImageModel.h; path = model/puzzleImageModel.h; sourceTree = "<group>"; };
+		EC0F2262190A375D00763944 /* puzzleImageModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = puzzleImageModel.m; path = model/puzzleImageModel.m; sourceTree = "<group>"; };
+		EC1624D019012E26003B4365 /* LocalAlbumViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocalAlbumViewController.h; sourceTree = "<group>"; };
+		EC1624D119012E26003B4365 /* LocalAlbumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocalAlbumViewController.m; sourceTree = "<group>"; };
+		EC1624D219012E26003B4365 /* LocalAlbumViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LocalAlbumViewController.xib; sourceTree = "<group>"; };
+		EC1BA1191904BED400EC6FD3 /* ImagePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImagePickerViewController.h; sourceTree = "<group>"; };
+		EC1BA11A1904BED400EC6FD3 /* ImagePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImagePickerViewController.m; sourceTree = "<group>"; };
+		EC1BA11B1904BED400EC6FD3 /* ImagePickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ImagePickerViewController.xib; sourceTree = "<group>"; };
+		EC1BA11F1904C31C00EC6FD3 /* SWSnapshotStackView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWSnapshotStackView.h; sourceTree = "<group>"; };
+		EC1BA1201904C31C00EC6FD3 /* SWSnapshotStackView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWSnapshotStackView.m; sourceTree = "<group>"; };
+		EC1BA1231904C32900EC6FD3 /* UIImage+additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+additions.h"; sourceTree = "<group>"; };
+		EC1BA1241904C32900EC6FD3 /* UIImage+additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+additions.m"; sourceTree = "<group>"; };
+		EC22AA7D18F513AB005B6982 /* MagicPuzzle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicPuzzle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC22AA8018F513AB005B6982 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EC22AA8218F513AB005B6982 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EC22AA8418F513AB005B6982 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EC22AA8618F513AB005B6982 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		EC22AA8A18F513AB005B6982 /* MagicPuzzle-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MagicPuzzle-Info.plist"; sourceTree = "<group>"; };
+		EC22AA8C18F513AB005B6982 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC22AA8E18F513AB005B6982 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EC22AA9018F513AB005B6982 /* MagicPuzzle-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MagicPuzzle-Prefix.pch"; sourceTree = "<group>"; };
+		EC22AA9118F513AB005B6982 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EC22AA9218F513AB005B6982 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EC22AA9518F513AB005B6982 /* MagicPuzzle.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MagicPuzzle.xcdatamodel; sourceTree = "<group>"; };
+		EC22AA9718F513AB005B6982 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EC22AA9D18F513AB005B6982 /* MagicPuzzleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MagicPuzzleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC22AA9E18F513AB005B6982 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		EC22AAA718F513AB005B6982 /* MagicPuzzleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MagicPuzzleTests-Info.plist"; sourceTree = "<group>"; };
+		EC22AAA918F513AB005B6982 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC22AAAB18F513AB005B6982 /* MagicPuzzleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MagicPuzzleTests.m; sourceTree = "<group>"; };
+		EC22AAB618F51447005B6982 /* PuzzleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PuzzleViewController.h; sourceTree = "<group>"; };
+		EC22AAB718F51447005B6982 /* PuzzleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PuzzleViewController.m; sourceTree = "<group>"; };
+		EC22AAB818F51447005B6982 /* PuzzleViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PuzzleViewController.xib; sourceTree = "<group>"; };
+		EC2DCBD919051F6100AE202D /* iCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
+		EC2DCBDA19051F6100AE202D /* iCarousel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCarousel.m; sourceTree = "<group>"; };
+		EC2DCBDC19051FF800AE202D /* CoverFlowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoverFlowView.h; sourceTree = "<group>"; };
+		EC2DCBDD19051FF800AE202D /* CoverFlowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoverFlowView.m; sourceTree = "<group>"; };
+		EC3300261907515A00642CF6 /* ASOBounceButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASOBounceButtonView.h; sourceTree = "<group>"; };
+		EC3300271907515A00642CF6 /* ASOBounceButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASOBounceButtonView.m; sourceTree = "<group>"; };
+		EC3300281907515A00642CF6 /* ASOBounceButtonViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASOBounceButtonViewDelegate.h; sourceTree = "<group>"; };
+		EC33002A19075BF700642CF6 /* BounceButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BounceButtonView.h; sourceTree = "<group>"; };
+		EC33002B19075BF700642CF6 /* BounceButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BounceButtonView.m; sourceTree = "<group>"; };
+		EC33002D19076D2C00642CF6 /* ASOTwoStateButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASOTwoStateButton.h; sourceTree = "<group>"; };
+		EC33002E19076D2C00642CF6 /* ASOTwoStateButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASOTwoStateButton.m; sourceTree = "<group>"; };
+		EC4961AF18FBDB6600EDEAED /* ChooseLabel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChooseLabel.png; sourceTree = "<group>"; };
+		EC4961B018FBDB6600EDEAED /* ChooseLabel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ChooseLabel@2x.png"; sourceTree = "<group>"; };
+		EC4961B118FBDB6600EDEAED /* Menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Menu.png; sourceTree = "<group>"; };
+		EC4961B218FBDB6600EDEAED /* Menu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Menu@2x.png"; sourceTree = "<group>"; };
+		EC4961B318FBDB6600EDEAED /* PanningSwitch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PanningSwitch.png; sourceTree = "<group>"; };
+		EC4961B418FBDB6600EDEAED /* PanningSwitch@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PanningSwitch@2x.png"; sourceTree = "<group>"; };
+		EC4961B518FBDB6600EDEAED /* PuzzleComplete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PuzzleComplete.png; sourceTree = "<group>"; };
+		EC4961B618FBDB6600EDEAED /* PuzzleComplete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PuzzleComplete@2x.png"; sourceTree = "<group>"; };
+		EC4961B718FBDB6600EDEAED /* PuzzleComplete_iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PuzzleComplete_iPhone.png; sourceTree = "<group>"; };
+		EC4961B818FBDB6600EDEAED /* PuzzleComplete_iPhone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PuzzleComplete_iPhone@2x.png"; sourceTree = "<group>"; };
+		EC4961B918FBDB6600EDEAED /* Wood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wood.jpg; sourceTree = "<group>"; };
+		EC4961BA18FBDB6600EDEAED /* Wood@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wood@2x.jpg"; sourceTree = "<group>"; };
+		EC9A7C84191CD6CE0083FBFE /* mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark.png; sourceTree = "<group>"; };
+		ECF915A61906575F00366F4B /* Girls 2_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Girls 2_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915A71906575F00366F4B /* Girls_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Girls_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915A81906575F00366F4B /* Hippo_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hippo_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915A91906575F00366F4B /* Horses_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Horses_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915AA1906575F00366F4B /* Hulk_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hulk_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915AB1906575F00366F4B /* Kiwi_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kiwi_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915AC1906575F00366F4B /* Lego_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lego_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915AD1906575F00366F4B /* Lion_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lion_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915AE1906575F00366F4B /* Matrioska_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Matrioska_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915AF1906575F00366F4B /* Micetto furbetto_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Micetto furbetto_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B01906575F00366F4B /* Micio mafioso_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Micio mafioso_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B11906575F00366F4B /* Micio matto_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Micio matto_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B21906575F00366F4B /* Micio pigrotto_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Micio pigrotto_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B31906575F00366F4B /* Mother board_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mother board_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B41906575F00366F4B /* Mountains_puzzle.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mountains_puzzle.JPG; sourceTree = "<group>"; };
+		ECF915B51906575F00366F4B /* Nano_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nano_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915B61906575F00366F4B /* Nice view_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Nice view_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B71906575F00366F4B /* Obiettivo_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Obiettivo_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915B81906575F00366F4B /* Old car_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Old car_puzzle.jpg"; sourceTree = "<group>"; };
+		ECF915B91906575F00366F4B /* Pane_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pane_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915BA1906575F00366F4B /* Pasta_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pasta_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915BB1906575F00366F4B /* Pencils_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pencils_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915BC1906575F00366F4B /* Pizza_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pizza_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915BD1906575F00366F4B /* PlayStation_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PlayStation_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915BE1906575F00366F4B /* Rectil_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rectil_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915BF1906575F00366F4B /* The_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = The_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915C01906575F00366F4B /* Tiger_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tiger_puzzle.jpg; sourceTree = "<group>"; };
+		ECF915C11906575F00366F4B /* Yellow_puzzle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Yellow_puzzle.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC22AA7A18F513AB005B6982 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC22AA8318F513AB005B6982 /* CoreGraphics.framework in Frameworks */,
+				EC22AA8718F513AB005B6982 /* CoreData.framework in Frameworks */,
+				EC22AA8518F513AB005B6982 /* UIKit.framework in Frameworks */,
+				EC22AA8118F513AB005B6982 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC22AA9A18F513AB005B6982 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC22AA9F18F513AB005B6982 /* XCTest.framework in Frameworks */,
+				EC22AAA218F513AB005B6982 /* CoreData.framework in Frameworks */,
+				EC22AAA118F513AB005B6982 /* UIKit.framework in Frameworks */,
+				EC22AAA018F513AB005B6982 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC0BFC0B1908DA1F00231AAC /* Thumbs */ = {
+			isa = PBXGroup;
+			children = (
+				EC0BFCD719090C8E00231AAC /* Copia di All seeing eye_Easy_puzzle_thumb.jpg */,
+				EC0BFCFF19091CCC00231AAC /* Copia di Drops_Hard_puzzle_thumb.JPG */,
+				EC0BFD0019091CCC00231AAC /* Copia di Duck_Hard_puzzle_thumb.jpg */,
+				EC0BFD0119091CCC00231AAC /* Copia di Earth music_Hard_puzzle_thumb.jpg */,
+				EC0BFD0219091CCC00231AAC /* Copia di Earth_Hard_puzzle_thumb.jpg */,
+				EC0BFD0319091CCC00231AAC /* Copia di Fishing_Hard_puzzle_thumb.jpg */,
+				EC0BFD0419091CCC00231AAC /* Copia di Flower_Hard_puzzle_thumb.JPG */,
+				EC0BFD0519091CCC00231AAC /* Copia di Fontana di trevi_Hard_puzzle_thumb.jpg */,
+				EC0BFD0619091CCC00231AAC /* Copia di Fractal leaf_Hard_puzzle_thumb.jpg */,
+				EC0BFD0719091CCC00231AAC /* Copia di Girl_Hard_puzzle_thumb.jpg */,
+				EC0BFCD819090C8E00231AAC /* Copia di Amsterdam bikes_Easy_puzzle_thumb.jpg */,
+				EC0BFCD919090C8E00231AAC /* Copia di Amsterdam signs_Easy_puzzle_thumb.jpg */,
+				EC0BFCDA19090C8E00231AAC /* Copia di Buddah Bellin_Easy_puzzle_thumb.jpg */,
+				EC0BFCDB19090C8E00231AAC /* Copia di Buddah_Easy_puzzle_thumb.jpg */,
+				EC0BFCDC19090C8E00231AAC /* Copia di Bulldog_Easy_puzzle_thumb.jpg */,
+				EC0BFCDD19090C8E00231AAC /* Copia di Butterfly_Easy_puzzle_thumb.jpg */,
+				EC0BFCDE19090C8E00231AAC /* Copia di Car_Easy_puzzle_thumb.jpg */,
+				EC0BFCDF19090C8E00231AAC /* Copia di Chess_Easy_puzzle_thumb.jpg */,
+				EC0BFCE019090C8E00231AAC /* Copia di Chines chess_Easy_puzzle_thumb.jpg */,
+				EC0BFCE119090C8E00231AAC /* Copia di Colors_Easy_puzzle_thumb.jpg */,
+				EC0BFC201908DA2000231AAC /* Copia di Girls 2_puzzle_thumb.jpg */,
+				EC0BFC211908DA2000231AAC /* Copia di Girls_puzzle_thumb.jpg */,
+				EC0BFC221908DA2000231AAC /* Copia di Hippo_puzzle_thumb.jpg */,
+				EC0BFC231908DA2000231AAC /* Copia di Horses_puzzle_thumb.jpg */,
+				EC0BFC241908DA2000231AAC /* Copia di Hulk_puzzle_thumb.jpg */,
+				EC0BFC251908DA2000231AAC /* Copia di Kiwi_puzzle_thumb.jpg */,
+				EC0BFC261908DA2000231AAC /* Copia di Lego_puzzle_thumb.jpg */,
+				EC0BFC271908DA2000231AAC /* Copia di Lion_puzzle_thumb.jpg */,
+				EC0BFC281908DA2000231AAC /* Copia di Matrioska_puzzle_thumb.jpg */,
+				EC0BFC291908DA2000231AAC /* Copia di Micetto furbetto_puzzle_thumb.jpg */,
+				EC0BFC2A1908DA2000231AAC /* Copia di Micio mafioso_puzzle_thumb.jpg */,
+				EC0BFC2B1908DA2000231AAC /* Copia di Micio matto_puzzle_thumb.jpg */,
+				EC0BFC2C1908DA2000231AAC /* Copia di Micio pigrotto_puzzle_thumb.jpg */,
+				EC0BFC2D1908DA2000231AAC /* Copia di Mother board_puzzle_thumb.jpg */,
+				EC0BFC2E1908DA2000231AAC /* Copia di Mountains_puzzle_thumb.JPG */,
+				EC0BFC2F1908DA2000231AAC /* Copia di Nano_puzzle_thumb.jpg */,
+				EC0BFC301908DA2000231AAC /* Copia di Nice view_puzzle_thumb.jpg */,
+				EC0BFC311908DA2000231AAC /* Copia di Obiettivo_puzzle_thumb.jpg */,
+				EC0BFC321908DA2000231AAC /* Copia di Old car_puzzle_thumb.jpg */,
+				EC0BFC331908DA2000231AAC /* Copia di Pane_puzzle_thumb.jpg */,
+				EC0BFC341908DA2000231AAC /* Copia di Pasta_puzzle_thumb.jpg */,
+				EC0BFC351908DA2000231AAC /* Copia di Pencils_puzzle_thumb.jpg */,
+				EC0BFC361908DA2000231AAC /* Copia di Pizza_puzzle_thumb.jpg */,
+				EC0BFC371908DA2000231AAC /* Copia di PlayStation_puzzle_thumb.jpg */,
+				EC0BFC381908DA2000231AAC /* Copia di Rectil_puzzle_thumb.jpg */,
+				EC0BFC391908DA2000231AAC /* Copia di The_puzzle_thumb.jpg */,
+				EC0BFC3A1908DA2000231AAC /* Copia di Tiger_puzzle_thumb.jpg */,
+				EC0BFC3B1908DA2000231AAC /* Copia di Yellow_puzzle_thumb.jpg */,
+			);
+			path = Thumbs;
+			sourceTree = "<group>";
+		};
+		EC0BFC6C1908E76800231AAC /* backupPic */ = {
+			isa = PBXGroup;
+			children = (
+				EC0BFC6D1908E76800231AAC /* .macroplant_._ic_title_list@2x.png */,
+				EC0BFC6E1908E76800231AAC /* .macroplant_._ic_title_list_night@2x.png */,
+				EC0BFC6F1908E76800231AAC /* action-icon-camera-active.png */,
+				EC0BFC701908E76800231AAC /* action-icon-camera-active@2x.png */,
+				EC0BFC711908E76800231AAC /* action-icon-camera.png */,
+				EC0BFC721908E76800231AAC /* action-icon-camera@2x.png */,
+				EC0BFC731908E76800231AAC /* action-icon-home-black.png */,
+				EC0BFC741908E76800231AAC /* action-icon-home-black@2x.png */,
+				EC0BFC751908E76800231AAC /* action-icon-home-white.png */,
+				EC0BFC761908E76800231AAC /* action-icon-home-white@2x.png */,
+				EC0BFC771908E76800231AAC /* AlertErrorIcon.png */,
+				EC0BFC781908E76800231AAC /* AlertErrorIcon@2x.png */,
+				EC0BFC791908E76800231AAC /* ic_list_app@2x.png */,
+				EC0BFC7A1908E76800231AAC /* ic_list_app_night@2x.png */,
+				EC0BFC7B1908E76800231AAC /* ic_list_home@2x.png */,
+				EC0BFC7C1908E76800231AAC /* ic_list_home_night@2x.png */,
+				EC0BFC7D1908E76800231AAC /* ic_list_settings@2x.png */,
+				EC0BFC7E1908E76800231AAC /* ic_list_settings_night@2x.png */,
+				EC0BFC7F1908E76800231AAC /* ic_title_list@2x.png */,
+				EC0BFC801908E76800231AAC /* ic_title_list_night@2x.png */,
+				EC0BFC811908E76800231AAC /* icon-unread.png */,
+				EC0BFC821908E76800231AAC /* icon-unread@2x.png */,
+				EC0BFC831908E76800231AAC /* ListRepeat.png */,
+				EC0BFC841908E76800231AAC /* ListRepeat@2x.png */,
+				EC0BFC851908E76800231AAC /* ListRepeatHight.png */,
+				EC0BFC861908E76800231AAC /* ListRepeatHight@2x.png */,
+				EC0BFC871908E76800231AAC /* Login_phone.png */,
+				EC0BFC881908E76800231AAC /* Login_phone@2x.png */,
+				EC0BFC891908E76800231AAC /* Login_phoneIcon_Sel.png */,
+				EC0BFC8A1908E76800231AAC /* Login_phoneIcon_Sel@2x.png */,
+				EC0BFC8B1908E76800231AAC /* More_Help.png */,
+				EC0BFC8C1908E76800231AAC /* More_Help@2x.png */,
+				EC0BFC8D1908E76800231AAC /* OrderPlay.png */,
+				EC0BFC8E1908E76800231AAC /* OrderPlay@2x.png */,
+				EC0BFC8F1908E76800231AAC /* OrderPlayHight.png */,
+				EC0BFC901908E76800231AAC /* OrderPlayHight@2x.png */,
+				EC0BFC911908E76800231AAC /* sync_error.png */,
+				EC0BFC921908E76800231AAC /* sync_error@2x.png */,
+				EC0BFC931908E76800231AAC /* tools_bookmark_yes.png */,
+				EC0BFC941908E76800231AAC /* tools_bookmark_yes@2x.png */,
+			);
+			path = backupPic;
+			sourceTree = "<group>";
+		};
+		EC0BFCBD1908F25300231AAC /* model */ = {
+			isa = PBXGroup;
+			children = (
+				EC0F225F190A375D00763944 /* MainModel.h */,
+				EC0F2260190A375D00763944 /* MainModel.m */,
+				EC0F2261190A375D00763944 /* puzzleImageModel.h */,
+				EC0F2262190A375D00763944 /* puzzleImageModel.m */,
+			);
+			name = model;
+			path = MagicPuzzle;
+			sourceTree = "<group>";
+		};
+		EC0E2D9A18F7C77C004E3DE5 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				EC3300251907515A00642CF6 /* bounceButton */,
+				EC2DCBD819051F6100AE202D /* iCarousel */,
+				EC1BA1221904C32900EC6FD3 /* MPImage */,
+				EC1BA11E1904C31C00EC6FD3 /* ImageViewHoder */,
+				EC0E2D9B18F7C77C004E3DE5 /* GMGridView */,
+				EC0E2DA818F7C77C004E3DE5 /* Toast */,
+			);
+			name = lib;
+			path = MagicPuzzle/lib;
+			sourceTree = "<group>";
+		};
+		EC0E2D9B18F7C77C004E3DE5 /* GMGridView */ = {
+			isa = PBXGroup;
+			children = (
+				EC0E2D9C18F7C77C004E3DE5 /* GMGridView-Constants.h */,
+				EC0E2D9D18F7C77C004E3DE5 /* GMGridView.h */,
+				EC0E2D9E18F7C77C004E3DE5 /* GMGridView.m */,
+				EC0E2D9F18F7C77C004E3DE5 /* GMGridViewCell+Extended.h */,
+				EC0E2DA018F7C77C004E3DE5 /* GMGridViewCell.h */,
+				EC0E2DA118F7C77C004E3DE5 /* GMGridViewCell.m */,
+				EC0E2DA218F7C77C004E3DE5 /* GMGridViewLayoutStrategies.h */,
+				EC0E2DA318F7C77C004E3DE5 /* GMGridViewLayoutStrategies.m */,
+				EC0E2DA418F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.h */,
+				EC0E2DA518F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.m */,
+				EC0E2DA618F7C77C004E3DE5 /* UIView+GMGridViewAdditions.h */,
+				EC0E2DA718F7C77C004E3DE5 /* UIView+GMGridViewAdditions.m */,
+			);
+			path = GMGridView;
+			sourceTree = "<group>";
+		};
+		EC0E2DA818F7C77C004E3DE5 /* Toast */ = {
+			isa = PBXGroup;
+			children = (
+				EC0E2DA918F7C77C004E3DE5 /* UIView+Toast.h */,
+				EC0E2DAA18F7C77C004E3DE5 /* UIView+Toast.m */,
+			);
+			path = Toast;
+			sourceTree = "<group>";
+		};
+		EC1BA11E1904C31C00EC6FD3 /* ImageViewHoder */ = {
+			isa = PBXGroup;
+			children = (
+				EC1BA11F1904C31C00EC6FD3 /* SWSnapshotStackView.h */,
+				EC1BA1201904C31C00EC6FD3 /* SWSnapshotStackView.m */,
+			);
+			path = ImageViewHoder;
+			sourceTree = "<group>";
+		};
+		EC1BA1221904C32900EC6FD3 /* MPImage */ = {
+			isa = PBXGroup;
+			children = (
+				EC1BA1231904C32900EC6FD3 /* UIImage+additions.h */,
+				EC1BA1241904C32900EC6FD3 /* UIImage+additions.m */,
+			);
+			path = MPImage;
+			sourceTree = "<group>";
+		};
+		EC22AA7418F513AB005B6982 = {
+			isa = PBXGroup;
+			children = (
+				EC0BFCBD1908F25300231AAC /* model */,
+				ECE7884218F548D9003EE822 /* res */,
+				EC0E2D9A18F7C77C004E3DE5 /* lib */,
+				EC22AA8818F513AB005B6982 /* MagicPuzzle */,
+				EC22AAA518F513AB005B6982 /* MagicPuzzleTests */,
+				EC22AA7F18F513AB005B6982 /* Frameworks */,
+				EC22AA7E18F513AB005B6982 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC22AA7E18F513AB005B6982 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AA7D18F513AB005B6982 /* MagicPuzzle.app */,
+				EC22AA9D18F513AB005B6982 /* MagicPuzzleTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC22AA7F18F513AB005B6982 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AA8018F513AB005B6982 /* Foundation.framework */,
+				EC22AA8218F513AB005B6982 /* CoreGraphics.framework */,
+				EC22AA8418F513AB005B6982 /* UIKit.framework */,
+				EC22AA8618F513AB005B6982 /* CoreData.framework */,
+				EC22AA9E18F513AB005B6982 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EC22AA8818F513AB005B6982 /* MagicPuzzle */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AAB518F51414005B6982 /* PuzzleView */,
+				EC22AA9118F513AB005B6982 /* AppDelegate.h */,
+				EC22AA9218F513AB005B6982 /* AppDelegate.m */,
+				EC22AA9718F513AB005B6982 /* Images.xcassets */,
+				EC22AA9418F513AB005B6982 /* MagicPuzzle.xcdatamodeld */,
+				EC22AA8918F513AB005B6982 /* Supporting Files */,
+			);
+			path = MagicPuzzle;
+			sourceTree = "<group>";
+		};
+		EC22AA8918F513AB005B6982 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AA8A18F513AB005B6982 /* MagicPuzzle-Info.plist */,
+				EC22AA8B18F513AB005B6982 /* InfoPlist.strings */,
+				EC22AA8E18F513AB005B6982 /* main.m */,
+				EC22AA9018F513AB005B6982 /* MagicPuzzle-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EC22AAA518F513AB005B6982 /* MagicPuzzleTests */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AAAB18F513AB005B6982 /* MagicPuzzleTests.m */,
+				EC22AAA618F513AB005B6982 /* Supporting Files */,
+			);
+			path = MagicPuzzleTests;
+			sourceTree = "<group>";
+		};
+		EC22AAA618F513AB005B6982 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AAA718F513AB005B6982 /* MagicPuzzleTests-Info.plist */,
+				EC22AAA818F513AB005B6982 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EC22AAB518F51414005B6982 /* PuzzleView */ = {
+			isa = PBXGroup;
+			children = (
+				EC22AAB618F51447005B6982 /* PuzzleViewController.h */,
+				EC22AAB718F51447005B6982 /* PuzzleViewController.m */,
+				EC22AAB818F51447005B6982 /* PuzzleViewController.xib */,
+				EC1624D019012E26003B4365 /* LocalAlbumViewController.h */,
+				EC1624D119012E26003B4365 /* LocalAlbumViewController.m */,
+				EC1624D219012E26003B4365 /* LocalAlbumViewController.xib */,
+				EC1BA1191904BED400EC6FD3 /* ImagePickerViewController.h */,
+				EC1BA11A1904BED400EC6FD3 /* ImagePickerViewController.m */,
+				EC1BA11B1904BED400EC6FD3 /* ImagePickerViewController.xib */,
+				EC2DCBDC19051FF800AE202D /* CoverFlowView.h */,
+				EC2DCBDD19051FF800AE202D /* CoverFlowView.m */,
+			);
+			path = PuzzleView;
+			sourceTree = "<group>";
+		};
+		EC2DCBD819051F6100AE202D /* iCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				EC2DCBD919051F6100AE202D /* iCarousel.h */,
+				EC2DCBDA19051F6100AE202D /* iCarousel.m */,
+			);
+			path = iCarousel;
+			sourceTree = "<group>";
+		};
+		EC3300251907515A00642CF6 /* bounceButton */ = {
+			isa = PBXGroup;
+			children = (
+				EC33002D19076D2C00642CF6 /* ASOTwoStateButton.h */,
+				EC33002E19076D2C00642CF6 /* ASOTwoStateButton.m */,
+				EC3300261907515A00642CF6 /* ASOBounceButtonView.h */,
+				EC3300271907515A00642CF6 /* ASOBounceButtonView.m */,
+				EC3300281907515A00642CF6 /* ASOBounceButtonViewDelegate.h */,
+				EC33002A19075BF700642CF6 /* BounceButtonView.h */,
+				EC33002B19075BF700642CF6 /* BounceButtonView.m */,
+			);
+			path = bounceButton;
+			sourceTree = "<group>";
+		};
+		EC4961AE18FBDB6600EDEAED /* PNGs */ = {
+			isa = PBXGroup;
+			children = (
+				EC4961AF18FBDB6600EDEAED /* ChooseLabel.png */,
+				EC4961B018FBDB6600EDEAED /* ChooseLabel@2x.png */,
+				EC4961B118FBDB6600EDEAED /* Menu.png */,
+				EC4961B218FBDB6600EDEAED /* Menu@2x.png */,
+				EC4961B318FBDB6600EDEAED /* PanningSwitch.png */,
+				EC4961B418FBDB6600EDEAED /* PanningSwitch@2x.png */,
+				EC4961B518FBDB6600EDEAED /* PuzzleComplete.png */,
+				EC4961B618FBDB6600EDEAED /* PuzzleComplete@2x.png */,
+				EC4961B718FBDB6600EDEAED /* PuzzleComplete_iPhone.png */,
+				EC4961B818FBDB6600EDEAED /* PuzzleComplete_iPhone@2x.png */,
+				EC4961B918FBDB6600EDEAED /* Wood.jpg */,
+				EC4961BA18FBDB6600EDEAED /* Wood@2x.jpg */,
+				EC9A7C84191CD6CE0083FBFE /* mark.png */,
+			);
+			path = PNGs;
+			sourceTree = "<group>";
+		};
+		ECE7884218F548D9003EE822 /* res */ = {
+			isa = PBXGroup;
+			children = (
+				EC0BFC6C1908E76800231AAC /* backupPic */,
+				ECF915911906575F00366F4B /* Puzzle_images */,
+				EC4961AE18FBDB6600EDEAED /* PNGs */,
+			);
+			name = res;
+			path = MagicPuzzle/res;
+			sourceTree = "<group>";
+		};
+		ECF915911906575F00366F4B /* Puzzle_images */ = {
+			isa = PBXGroup;
+			children = (
+				EC0BFC0B1908DA1F00231AAC /* Thumbs */,
+				EC0BFCED19091CBA00231AAC /* Drops_Hard_puzzle.JPG */,
+				EC0BFCEE19091CBA00231AAC /* Duck_Hard_puzzle.jpg */,
+				EC0BFCEF19091CBA00231AAC /* Earth music_Hard_puzzle.jpg */,
+				EC0BFCF019091CBA00231AAC /* Earth_Hard_puzzle.jpg */,
+				EC0BFCF119091CBA00231AAC /* Fishing_Hard_puzzle.jpg */,
+				EC0BFCF219091CBA00231AAC /* Flower_Hard_puzzle.JPG */,
+				EC0BFCF319091CBA00231AAC /* Fontana di trevi_Hard_puzzle.jpg */,
+				EC0BFCF419091CBA00231AAC /* Fractal leaf_Hard_puzzle.jpg */,
+				EC0BFCF519091CBA00231AAC /* Girl_Hard_puzzle.jpg */,
+				EC0BFCC119090C8100231AAC /* All seeing eye_Easy_puzzle.jpg */,
+				EC0BFCC219090C8100231AAC /* Amsterdam bikes_Easy_puzzle.jpg */,
+				EC0BFCC319090C8100231AAC /* Amsterdam signs_Easy_puzzle.jpg */,
+				EC0BFCC419090C8100231AAC /* Buddah Bellin_Easy_puzzle.jpg */,
+				EC0BFCC519090C8100231AAC /* Buddah_Easy_puzzle.jpg */,
+				EC0BFCC619090C8100231AAC /* Bulldog_Easy_puzzle.jpg */,
+				EC0BFCC719090C8100231AAC /* Butterfly_Easy_puzzle.jpg */,
+				EC0BFCC819090C8100231AAC /* Car_Easy_puzzle.jpg */,
+				EC0BFCC919090C8100231AAC /* Chess_Easy_puzzle.jpg */,
+				EC0BFCCA19090C8100231AAC /* Chines chess_Easy_puzzle.jpg */,
+				EC0BFCCB19090C8100231AAC /* Colors_Easy_puzzle.jpg */,
+				ECF915A61906575F00366F4B /* Girls 2_puzzle.jpg */,
+				ECF915A71906575F00366F4B /* Girls_puzzle.jpg */,
+				ECF915A81906575F00366F4B /* Hippo_puzzle.jpg */,
+				ECF915A91906575F00366F4B /* Horses_puzzle.jpg */,
+				ECF915AA1906575F00366F4B /* Hulk_puzzle.jpg */,
+				ECF915AB1906575F00366F4B /* Kiwi_puzzle.jpg */,
+				ECF915AC1906575F00366F4B /* Lego_puzzle.jpg */,
+				ECF915AD1906575F00366F4B /* Lion_puzzle.jpg */,
+				ECF915AE1906575F00366F4B /* Matrioska_puzzle.jpg */,
+				ECF915AF1906575F00366F4B /* Micetto furbetto_puzzle.jpg */,
+				ECF915B01906575F00366F4B /* Micio mafioso_puzzle.jpg */,
+				ECF915B11906575F00366F4B /* Micio matto_puzzle.jpg */,
+				ECF915B21906575F00366F4B /* Micio pigrotto_puzzle.jpg */,
+				ECF915B31906575F00366F4B /* Mother board_puzzle.jpg */,
+				ECF915B41906575F00366F4B /* Mountains_puzzle.JPG */,
+				ECF915B51906575F00366F4B /* Nano_puzzle.jpg */,
+				ECF915B61906575F00366F4B /* Nice view_puzzle.jpg */,
+				ECF915B71906575F00366F4B /* Obiettivo_puzzle.jpg */,
+				ECF915B81906575F00366F4B /* Old car_puzzle.jpg */,
+				ECF915B91906575F00366F4B /* Pane_puzzle.jpg */,
+				ECF915BA1906575F00366F4B /* Pasta_puzzle.jpg */,
+				ECF915BB1906575F00366F4B /* Pencils_puzzle.jpg */,
+				ECF915BC1906575F00366F4B /* Pizza_puzzle.jpg */,
+				ECF915BD1906575F00366F4B /* PlayStation_puzzle.jpg */,
+				ECF915BE1906575F00366F4B /* Rectil_puzzle.jpg */,
+				ECF915BF1906575F00366F4B /* The_puzzle.jpg */,
+				ECF915C01906575F00366F4B /* Tiger_puzzle.jpg */,
+				ECF915C11906575F00366F4B /* Yellow_puzzle.jpg */,
+			);
+			path = Puzzle_images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC22AA7C18F513AB005B6982 /* MagicPuzzle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC22AAAF18F513AB005B6982 /* Build configuration list for PBXNativeTarget "MagicPuzzle" */;
+			buildPhases = (
+				EC22AA7918F513AB005B6982 /* Sources */,
+				EC22AA7A18F513AB005B6982 /* Frameworks */,
+				EC22AA7B18F513AB005B6982 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MagicPuzzle;
+			productName = MagicPuzzle;
+			productReference = EC22AA7D18F513AB005B6982 /* MagicPuzzle.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EC22AA9C18F513AB005B6982 /* MagicPuzzleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC22AAB218F513AB005B6982 /* Build configuration list for PBXNativeTarget "MagicPuzzleTests" */;
+			buildPhases = (
+				EC22AA9918F513AB005B6982 /* Sources */,
+				EC22AA9A18F513AB005B6982 /* Frameworks */,
+				EC22AA9B18F513AB005B6982 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC22AAA418F513AB005B6982 /* PBXTargetDependency */,
+			);
+			name = MagicPuzzleTests;
+			productName = MagicPuzzleTests;
+			productReference = EC22AA9D18F513AB005B6982 /* MagicPuzzleTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC22AA7518F513AB005B6982 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = denty;
+				TargetAttributes = {
+					EC22AA9C18F513AB005B6982 = {
+						TestTargetID = EC22AA7C18F513AB005B6982;
+					};
+				};
+			};
+			buildConfigurationList = EC22AA7818F513AB005B6982 /* Build configuration list for PBXProject "MagicPuzzle" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EC22AA7418F513AB005B6982;
+			productRefGroup = EC22AA7E18F513AB005B6982 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC22AA7C18F513AB005B6982 /* MagicPuzzle */,
+				EC22AA9C18F513AB005B6982 /* MagicPuzzleTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC22AA7B18F513AB005B6982 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC0BFCD519090C8100231AAC /* Chines chess_Easy_puzzle.jpg in Resources */,
+				ECF915E31906575F00366F4B /* Mother board_puzzle.jpg in Resources */,
+				EC0BFCAC1908E76800231AAC /* ListRepeat@2x.png in Resources */,
+				EC0BFC5F1908DA2000231AAC /* Copia di Nano_puzzle_thumb.jpg in Resources */,
+				EC0BFCAE1908E76800231AAC /* ListRepeatHight@2x.png in Resources */,
+				EC0BFCE619090C8E00231AAC /* Copia di Buddah_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFD0F19091CCC00231AAC /* Copia di Fractal leaf_Hard_puzzle_thumb.jpg in Resources */,
+				ECF915F01906575F00366F4B /* Tiger_puzzle.jpg in Resources */,
+				EC4961BC18FBDB6600EDEAED /* ChooseLabel@2x.png in Resources */,
+				EC4961BD18FBDB6600EDEAED /* Menu.png in Resources */,
+				EC1624D419012E26003B4365 /* LocalAlbumViewController.xib in Resources */,
+				EC0BFD0B19091CCC00231AAC /* Copia di Earth_Hard_puzzle_thumb.jpg in Resources */,
+				EC0BFC9B1908E76800231AAC /* action-icon-home-black.png in Resources */,
+				ECF915EC1906575F00366F4B /* Pizza_puzzle.jpg in Resources */,
+				EC0BFCA91908E76800231AAC /* icon-unread.png in Resources */,
+				EC0BFC9E1908E76800231AAC /* action-icon-home-white@2x.png in Resources */,
+				EC0BFC9D1908E76800231AAC /* action-icon-home-white.png in Resources */,
+				EC0BFCE919090C8E00231AAC /* Copia di Car_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFCD019090C8100231AAC /* Buddah_Easy_puzzle.jpg in Resources */,
+				EC0BFCAB1908E76800231AAC /* ListRepeat.png in Resources */,
+				EC0BFCF919091CBA00231AAC /* Earth_Hard_puzzle.jpg in Resources */,
+				EC0BFC6A1908DA2000231AAC /* Copia di Tiger_puzzle_thumb.jpg in Resources */,
+				ECF915E71906575F00366F4B /* Obiettivo_puzzle.jpg in Resources */,
+				EC0BFC611908DA2000231AAC /* Copia di Obiettivo_puzzle_thumb.jpg in Resources */,
+				EC0BFCD119090C8100231AAC /* Bulldog_Easy_puzzle.jpg in Resources */,
+				EC0BFD0819091CCC00231AAC /* Copia di Drops_Hard_puzzle_thumb.JPG in Resources */,
+				ECF915DB1906575F00366F4B /* Kiwi_puzzle.jpg in Resources */,
+				EC0BFCA71908E76800231AAC /* ic_title_list@2x.png in Resources */,
+				ECF915EB1906575F00366F4B /* Pencils_puzzle.jpg in Resources */,
+				EC4961C518FBDB6600EDEAED /* Wood.jpg in Resources */,
+				EC0BFC561908DA2000231AAC /* Copia di Lego_puzzle_thumb.jpg in Resources */,
+				EC0BFCFC19091CBA00231AAC /* Fontana di trevi_Hard_puzzle.jpg in Resources */,
+				EC0BFCA61908E76800231AAC /* ic_list_settings_night@2x.png in Resources */,
+				EC4961C418FBDB6600EDEAED /* PuzzleComplete_iPhone@2x.png in Resources */,
+				ECF915D61906575F00366F4B /* Girls 2_puzzle.jpg in Resources */,
+				EC0BFCAD1908E76800231AAC /* ListRepeatHight.png in Resources */,
+				ECF915ED1906575F00366F4B /* PlayStation_puzzle.jpg in Resources */,
+				ECF915DE1906575F00366F4B /* Matrioska_puzzle.jpg in Resources */,
+				EC4961C118FBDB6600EDEAED /* PuzzleComplete.png in Resources */,
+				EC0BFCB01908E76800231AAC /* Login_phone@2x.png in Resources */,
+				EC0BFCA21908E76800231AAC /* ic_list_app_night@2x.png in Resources */,
+				EC1BA11D1904BED400EC6FD3 /* ImagePickerViewController.xib in Resources */,
+				EC22AA8D18F513AB005B6982 /* InfoPlist.strings in Resources */,
+				EC0BFD1019091CCC00231AAC /* Copia di Girl_Hard_puzzle_thumb.jpg in Resources */,
+				ECF915E01906575F00366F4B /* Micio mafioso_puzzle.jpg in Resources */,
+				ECF915DA1906575F00366F4B /* Hulk_puzzle.jpg in Resources */,
+				EC0BFCD419090C8100231AAC /* Chess_Easy_puzzle.jpg in Resources */,
+				EC0BFCD619090C8100231AAC /* Colors_Easy_puzzle.jpg in Resources */,
+				EC0BFC681908DA2000231AAC /* Copia di Rectil_puzzle_thumb.jpg in Resources */,
+				EC0BFC641908DA2000231AAC /* Copia di Pasta_puzzle_thumb.jpg in Resources */,
+				EC0BFC991908E76800231AAC /* action-icon-camera.png in Resources */,
+				EC0BFC581908DA2000231AAC /* Copia di Matrioska_puzzle_thumb.jpg in Resources */,
+				ECF915E61906575F00366F4B /* Nice view_puzzle.jpg in Resources */,
+				EC0BFC511908DA2000231AAC /* Copia di Girls_puzzle_thumb.jpg in Resources */,
+				EC0BFC531908DA2000231AAC /* Copia di Horses_puzzle_thumb.jpg in Resources */,
+				EC0BFCCC19090C8100231AAC /* All seeing eye_Easy_puzzle.jpg in Resources */,
+				EC0BFC691908DA2000231AAC /* Copia di The_puzzle_thumb.jpg in Resources */,
+				EC0BFCF619091CBA00231AAC /* Drops_Hard_puzzle.JPG in Resources */,
+				EC0BFCA51908E76800231AAC /* ic_list_settings@2x.png in Resources */,
+				EC0BFC951908E76800231AAC /* .macroplant_._ic_title_list@2x.png in Resources */,
+				EC0BFC571908DA2000231AAC /* Copia di Lion_puzzle_thumb.jpg in Resources */,
+				EC0BFD0919091CCC00231AAC /* Copia di Duck_Hard_puzzle_thumb.jpg in Resources */,
+				EC0BFCAA1908E76800231AAC /* icon-unread@2x.png in Resources */,
+				ECF915E21906575F00366F4B /* Micio pigrotto_puzzle.jpg in Resources */,
+				EC9A7C85191CD6CE0083FBFE /* mark.png in Resources */,
+				ECF915DC1906575F00366F4B /* Lego_puzzle.jpg in Resources */,
+				EC0BFCA41908E76800231AAC /* ic_list_home_night@2x.png in Resources */,
+				EC0BFCF719091CBA00231AAC /* Duck_Hard_puzzle.jpg in Resources */,
+				EC0BFC621908DA2000231AAC /* Copia di Old car_puzzle_thumb.jpg in Resources */,
+				ECF915DD1906575F00366F4B /* Lion_puzzle.jpg in Resources */,
+				EC0BFCD319090C8100231AAC /* Car_Easy_puzzle.jpg in Resources */,
+				EC0BFCB21908E76800231AAC /* Login_phoneIcon_Sel@2x.png in Resources */,
+				EC0BFD0A19091CCC00231AAC /* Copia di Earth music_Hard_puzzle_thumb.jpg in Resources */,
+				EC0BFC501908DA2000231AAC /* Copia di Girls 2_puzzle_thumb.jpg in Resources */,
+				EC0BFCE419090C8E00231AAC /* Copia di Amsterdam signs_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFD0C19091CCC00231AAC /* Copia di Fishing_Hard_puzzle_thumb.jpg in Resources */,
+				EC0BFC541908DA2000231AAC /* Copia di Hulk_puzzle_thumb.jpg in Resources */,
+				EC0BFC661908DA2000231AAC /* Copia di Pizza_puzzle_thumb.jpg in Resources */,
+				EC4961BB18FBDB6600EDEAED /* ChooseLabel.png in Resources */,
+				EC0BFD0E19091CCC00231AAC /* Copia di Fontana di trevi_Hard_puzzle_thumb.jpg in Resources */,
+				ECF915D71906575F00366F4B /* Girls_puzzle.jpg in Resources */,
+				EC0BFC9F1908E76800231AAC /* AlertErrorIcon.png in Resources */,
+				EC0BFC6B1908DA2000231AAC /* Copia di Yellow_puzzle_thumb.jpg in Resources */,
+				EC0BFCFD19091CBA00231AAC /* Fractal leaf_Hard_puzzle.jpg in Resources */,
+				EC0BFCCF19090C8100231AAC /* Buddah Bellin_Easy_puzzle.jpg in Resources */,
+				EC0BFC591908DA2000231AAC /* Copia di Micetto furbetto_puzzle_thumb.jpg in Resources */,
+				EC0BFC601908DA2000231AAC /* Copia di Nice view_puzzle_thumb.jpg in Resources */,
+				ECF915EE1906575F00366F4B /* Rectil_puzzle.jpg in Resources */,
+				EC0BFCB11908E76800231AAC /* Login_phoneIcon_Sel.png in Resources */,
+				EC0BFCEC19090C8E00231AAC /* Copia di Colors_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFCFB19091CBA00231AAC /* Flower_Hard_puzzle.JPG in Resources */,
+				EC0BFCE719090C8E00231AAC /* Copia di Bulldog_Easy_puzzle_thumb.jpg in Resources */,
+				EC4961C018FBDB6600EDEAED /* PanningSwitch@2x.png in Resources */,
+				ECF915D91906575F00366F4B /* Horses_puzzle.jpg in Resources */,
+				EC22AABA18F51447005B6982 /* PuzzleViewController.xib in Resources */,
+				ECF915E91906575F00366F4B /* Pane_puzzle.jpg in Resources */,
+				ECF915D81906575F00366F4B /* Hippo_puzzle.jpg in Resources */,
+				EC4961BF18FBDB6600EDEAED /* PanningSwitch.png in Resources */,
+				EC0BFCCD19090C8100231AAC /* Amsterdam bikes_Easy_puzzle.jpg in Resources */,
+				ECF915DF1906575F00366F4B /* Micetto furbetto_puzzle.jpg in Resources */,
+				ECF915EF1906575F00366F4B /* The_puzzle.jpg in Resources */,
+				EC0BFCA11908E76800231AAC /* ic_list_app@2x.png in Resources */,
+				EC0BFC961908E76800231AAC /* .macroplant_._ic_title_list_night@2x.png in Resources */,
+				EC0BFCE519090C8E00231AAC /* Copia di Buddah Bellin_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFCB61908E76800231AAC /* OrderPlay@2x.png in Resources */,
+				EC0BFCEA19090C8E00231AAC /* Copia di Chess_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFCBB1908E76800231AAC /* tools_bookmark_yes.png in Resources */,
+				EC4961BE18FBDB6600EDEAED /* Menu@2x.png in Resources */,
+				EC0BFC981908E76800231AAC /* action-icon-camera-active@2x.png in Resources */,
+				EC0BFCB51908E76800231AAC /* OrderPlay.png in Resources */,
+				ECF915EA1906575F00366F4B /* Pasta_puzzle.jpg in Resources */,
+				EC0BFC651908DA2000231AAC /* Copia di Pencils_puzzle_thumb.jpg in Resources */,
+				EC0BFCA31908E76800231AAC /* ic_list_home@2x.png in Resources */,
+				EC0BFCBC1908E76800231AAC /* tools_bookmark_yes@2x.png in Resources */,
+				EC0BFCE319090C8E00231AAC /* Copia di Amsterdam bikes_Easy_puzzle_thumb.jpg in Resources */,
+				EC4961C218FBDB6600EDEAED /* PuzzleComplete@2x.png in Resources */,
+				EC0BFD0D19091CCC00231AAC /* Copia di Flower_Hard_puzzle_thumb.JPG in Resources */,
+				EC0BFCAF1908E76800231AAC /* Login_phone.png in Resources */,
+				EC0BFCEB19090C8E00231AAC /* Copia di Chines chess_Easy_puzzle_thumb.jpg in Resources */,
+				EC4961C318FBDB6600EDEAED /* PuzzleComplete_iPhone.png in Resources */,
+				EC0BFC521908DA2000231AAC /* Copia di Hippo_puzzle_thumb.jpg in Resources */,
+				EC0BFCA81908E76800231AAC /* ic_title_list_night@2x.png in Resources */,
+				ECF915E51906575F00366F4B /* Nano_puzzle.jpg in Resources */,
+				EC4961C618FBDB6600EDEAED /* Wood@2x.jpg in Resources */,
+				ECF915E81906575F00366F4B /* Old car_puzzle.jpg in Resources */,
+				EC0BFCD219090C8100231AAC /* Butterfly_Easy_puzzle.jpg in Resources */,
+				EC0BFC5B1908DA2000231AAC /* Copia di Micio matto_puzzle_thumb.jpg in Resources */,
+				ECF915E11906575F00366F4B /* Micio matto_puzzle.jpg in Resources */,
+				EC0BFCB91908E76800231AAC /* sync_error.png in Resources */,
+				EC0BFC5E1908DA2000231AAC /* Copia di Mountains_puzzle_thumb.JPG in Resources */,
+				ECF915E41906575F00366F4B /* Mountains_puzzle.JPG in Resources */,
+				EC0BFC5A1908DA2000231AAC /* Copia di Micio mafioso_puzzle_thumb.jpg in Resources */,
+				EC0BFCF819091CBA00231AAC /* Earth music_Hard_puzzle.jpg in Resources */,
+				EC0BFC9A1908E76800231AAC /* action-icon-camera@2x.png in Resources */,
+				EC22AA9818F513AB005B6982 /* Images.xcassets in Resources */,
+				EC0BFCB71908E76800231AAC /* OrderPlayHight.png in Resources */,
+				ECF915F11906575F00366F4B /* Yellow_puzzle.jpg in Resources */,
+				EC0BFC631908DA2000231AAC /* Copia di Pane_puzzle_thumb.jpg in Resources */,
+				EC0BFC5C1908DA2000231AAC /* Copia di Micio pigrotto_puzzle_thumb.jpg in Resources */,
+				EC0BFC971908E76800231AAC /* action-icon-camera-active.png in Resources */,
+				EC0BFC551908DA2000231AAC /* Copia di Kiwi_puzzle_thumb.jpg in Resources */,
+				EC0BFC5D1908DA2000231AAC /* Copia di Mother board_puzzle_thumb.jpg in Resources */,
+				EC0BFC9C1908E76800231AAC /* action-icon-home-black@2x.png in Resources */,
+				EC0BFCB41908E76800231AAC /* More_Help@2x.png in Resources */,
+				EC0BFCCE19090C8100231AAC /* Amsterdam signs_Easy_puzzle.jpg in Resources */,
+				EC0BFCBA1908E76800231AAC /* sync_error@2x.png in Resources */,
+				EC0BFCFE19091CBA00231AAC /* Girl_Hard_puzzle.jpg in Resources */,
+				EC0BFCFA19091CBA00231AAC /* Fishing_Hard_puzzle.jpg in Resources */,
+				EC0BFCE219090C8E00231AAC /* Copia di All seeing eye_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFCA01908E76800231AAC /* AlertErrorIcon@2x.png in Resources */,
+				EC0BFCE819090C8E00231AAC /* Copia di Butterfly_Easy_puzzle_thumb.jpg in Resources */,
+				EC0BFCB81908E76800231AAC /* OrderPlayHight@2x.png in Resources */,
+				EC0BFCB31908E76800231AAC /* More_Help.png in Resources */,
+				EC0BFC671908DA2000231AAC /* Copia di PlayStation_puzzle_thumb.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC22AA9B18F513AB005B6982 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC22AAAA18F513AB005B6982 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC22AA7918F513AB005B6982 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC33002C19075BF700642CF6 /* BounceButtonView.m in Sources */,
+				EC0E2DAF18F7C77C004E3DE5 /* UIView+GMGridViewAdditions.m in Sources */,
+				EC0E2DAE18F7C77C004E3DE5 /* UIGestureRecognizer+GMGridViewAdditions.m in Sources */,
+				EC22AA9618F513AB005B6982 /* MagicPuzzle.xcdatamodeld in Sources */,
+				EC33002F19076D2C00642CF6 /* ASOTwoStateButton.m in Sources */,
+				EC1BA1251904C32900EC6FD3 /* UIImage+additions.m in Sources */,
+				EC0E2DAD18F7C77C004E3DE5 /* GMGridViewLayoutStrategies.m in Sources */,
+				EC1BA1211904C31C00EC6FD3 /* SWSnapshotStackView.m in Sources */,
+				EC2DCBDB19051F6100AE202D /* iCarousel.m in Sources */,
+				EC22AA9318F513AB005B6982 /* AppDelegate.m in Sources */,
+				EC0E2DAC18F7C77C004E3DE5 /* GMGridViewCell.m in Sources */,
+				EC3300291907515A00642CF6 /* ASOBounceButtonView.m in Sources */,
+				EC0F2263190A375D00763944 /* MainModel.m in Sources */,
+				EC0E2DAB18F7C77C004E3DE5 /* GMGridView.m in Sources */,
+				EC22AAB918F51447005B6982 /* PuzzleViewController.m in Sources */,
+				EC0F2264190A375D00763944 /* puzzleImageModel.m in Sources */,
+				EC0E2DB018F7C77C004E3DE5 /* UIView+Toast.m in Sources */,
+				EC2DCBDE19051FF800AE202D /* CoverFlowView.m in Sources */,
+				EC1624D319012E26003B4365 /* LocalAlbumViewController.m in Sources */,
+				EC22AA8F18F513AB005B6982 /* main.m in Sources */,
+				EC1BA11C1904BED400EC6FD3 /* ImagePickerViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC22AA9918F513AB005B6982 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC22AAAC18F513AB005B6982 /* MagicPuzzleTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EC22AAA418F513AB005B6982 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC22AA7C18F513AB005B6982 /* MagicPuzzle */;
+			targetProxy = EC22AAA318F513AB005B6982 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EC22AA8B18F513AB005B6982 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC22AA8C18F513AB005B6982 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EC22AAA818F513AB005B6982 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC22AAA918F513AB005B6982 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC22AAAD18F513AB005B6982 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EC22AAAE18F513AB005B6982 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC22AAB018F513AB005B6982 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MagicPuzzle/MagicPuzzle-Prefix.pch";
+				INFOPLIST_FILE = "MagicPuzzle/MagicPuzzle-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EC22AAB118F513AB005B6982 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MagicPuzzle/MagicPuzzle-Prefix.pch";
+				INFOPLIST_FILE = "MagicPuzzle/MagicPuzzle-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		EC22AAB318F513AB005B6982 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/MagicPuzzle.app/MagicPuzzle";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MagicPuzzle/MagicPuzzle-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "MagicPuzzleTests/MagicPuzzleTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		EC22AAB418F513AB005B6982 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/MagicPuzzle.app/MagicPuzzle";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MagicPuzzle/MagicPuzzle-Prefix.pch";
+				INFOPLIST_FILE = "MagicPuzzleTests/MagicPuzzleTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC22AA7818F513AB005B6982 /* Build configuration list for PBXProject "MagicPuzzle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC22AAAD18F513AB005B6982 /* Debug */,
+				EC22AAAE18F513AB005B6982 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC22AAAF18F513AB005B6982 /* Build configuration list for PBXNativeTarget "MagicPuzzle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC22AAB018F513AB005B6982 /* Debug */,
+				EC22AAB118F513AB005B6982 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC22AAB218F513AB005B6982 /* Build configuration list for PBXNativeTarget "MagicPuzzleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC22AAB318F513AB005B6982 /* Debug */,
+				EC22AAB418F513AB005B6982 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		EC22AA9418F513AB005B6982 /* MagicPuzzle.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EC22AA9518F513AB005B6982 /* MagicPuzzle.xcdatamodel */,
+			);
+			currentVersion = EC22AA9518F513AB005B6982 /* MagicPuzzle.xcdatamodel */;
+			path = MagicPuzzle.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = EC22AA7518F513AB005B6982 /* Project object */;
+}
